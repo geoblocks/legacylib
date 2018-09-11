@@ -1,0 +1,14 @@
+---
+language: node_js
+sudo: false
+node_js:
+  - "lts/*"
+cache:
+  directories:
+    - node_modules
+    - ol5/node_modules
+script:
+  - npm i
+  - npm run lint
+  - cd ol5; npm i
+  - npm run build

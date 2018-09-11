@@ -1,0 +1,4754 @@
+{
+  "symbols": [
+    {
+      "name": "module:ol/AssertionError~AssertionError",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/AssertionError.js:45"
+    },
+    {
+      "name": "module:ol/Collection.CollectionEvent",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Collection.js:24"
+    },
+    {
+      "name": "module:ol/Collection~Collection",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Collection.js:299"
+    },
+    {
+      "name": "module:ol/CollectionEventType~CollectionEventType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/CollectionEventType.js:8"
+    },
+    {
+      "name": "module:ol/Disposable~Disposable",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Disposable.js:34"
+    },
+    {
+      "name": "module:ol/Feature.createStyleFunction",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Feature.js:280"
+    },
+    {
+      "name": "module:ol/Feature~Feature",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Feature.js:300"
+    },
+    {
+      "name": "module:ol/Geolocation~Geolocation",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Geolocation.js:337"
+    },
+    {
+      "name": "module:ol/GeolocationProperty~GeolocationProperty",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/GeolocationProperty.js:8"
+    },
+    {
+      "name": "module:ol/Graticule~Graticule",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Graticule.js:723"
+    },
+    {
+      "name": "module:ol/Image~Image",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Image.js:149"
+    },
+    {
+      "name": "module:ol/ImageBase~ImageBase",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/ImageBase.js:96"
+    },
+    {
+      "name": "module:ol/ImageCanvas~ImageCanvas",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/ImageCanvas.js:95"
+    },
+    {
+      "name": "module:ol/ImageState~ImageState",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/ImageState.js:8"
+    },
+    {
+      "name": "module:ol/ImageTile~ImageTile",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/ImageTile.js:171"
+    },
+    {
+      "name": "module:ol/Kinetic~Kinetic",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Kinetic.js:119"
+    },
+    {
+      "name": "module:ol/LayerType~LayerType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/LayerType.js:9"
+    },
+    {
+      "name": "module:ol/Map~Map",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Map.js:97"
+    },
+    {
+      "name": "module:ol/MapBrowserEvent~MapBrowserEvent",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/MapBrowserEvent.js:79"
+    },
+    {
+      "name": "module:ol/MapBrowserEventHandler~MapBrowserEventHandler",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/MapBrowserEventHandler.js:326"
+    },
+    {
+      "name": "module:ol/MapBrowserEventType~MapBrowserEventType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/MapBrowserEventType.js:10"
+    },
+    {
+      "name": "module:ol/MapBrowserPointerEvent~MapBrowserPointerEvent",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/MapBrowserPointerEvent.js:26"
+    },
+    {
+      "name": "module:ol/MapEvent~MapEvent",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/MapEvent.js:39"
+    },
+    {
+      "name": "module:ol/MapEventType~MapEventType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/MapEventType.js:8"
+    },
+    {
+      "name": "module:ol/MapProperty~MapProperty",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/MapProperty.js:8"
+    },
+    {
+      "name": "module:ol/Object.getChangeEventType",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Object.js:220"
+    },
+    {
+      "name": "module:ol/Object~Object",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Object.js:227"
+    },
+    {
+      "name": "module:ol/ObjectEventType~ObjectEventType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/ObjectEventType.js:8"
+    },
+    {
+      "name": "module:ol/Observable.unByKey",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Observable.js:132"
+    },
+    {
+      "name": "module:ol/Observable~Observable",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Observable.js:143"
+    },
+    {
+      "name": "module:ol/Overlay~Overlay",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Overlay.js:587"
+    },
+    {
+      "name": "module:ol/OverlayPositioning~OverlayPositioning",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/OverlayPositioning.js:11"
+    },
+    {
+      "name": "module:ol/PluggableMap~PluggableMap",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/PluggableMap.js:1423"
+    },
+    {
+      "name": "module:ol/Tile~Tile",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/Tile.js:297"
+    },
+    {
+      "name": "module:ol/TileCache~TileCache",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/TileCache.js:57"
+    },
+    {
+      "name": "module:ol/TileQueue~TileQueue",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/TileQueue.js:131"
+    },
+    {
+      "name": "module:ol/TileRange.createOrUpdate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/TileRange.js:127"
+    },
+    {
+      "name": "module:ol/TileRange~TileRange",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/TileRange.js:140"
+    },
+    {
+      "name": "module:ol/TileState~TileState",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/TileState.js:8"
+    },
+    {
+      "name": "module:ol/VectorImageTile~VectorImageTile",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/VectorImageTile.js:309"
+    },
+    {
+      "name": "module:ol/VectorImageTile.defaultLoadFunction",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/VectorImageTile.js:316"
+    },
+    {
+      "name": "module:ol/VectorTile~VectorTile",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/VectorTile.js:240"
+    },
+    {
+      "name": "module:ol/View.createCenterConstraint",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/View.js:1209"
+    },
+    {
+      "name": "module:ol/View.createResolutionConstraint",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/View.js:1223"
+    },
+    {
+      "name": "module:ol/View.createRotationConstraint",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/View.js:1304"
+    },
+    {
+      "name": "module:ol/View.isNoopAnimation",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/View.js:1329"
+    },
+    {
+      "name": "module:ol/View~View",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/View.js:1344"
+    },
+    {
+      "name": "module:ol/ViewHint~ViewHint",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/ViewHint.js:8"
+    },
+    {
+      "name": "module:ol/ViewProperty~ViewProperty",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/ViewProperty.js:8"
+    },
+    {
+      "name": "module:ol/WebGLMap~WebGLMap",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/WebGLMap.js:96"
+    },
+    {
+      "name": "module:ol/array.binarySearch",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/array.js:15"
+    },
+    {
+      "name": "module:ol/array.numberSafeCompareFunction",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/array.js:49"
+    },
+    {
+      "name": "module:ol/array.includes",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/array.js:60"
+    },
+    {
+      "name": "module:ol/array.linearFindNearest",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/array.js:73"
+    },
+    {
+      "name": "module:ol/array.reverseSubArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/array.js:116"
+    },
+    {
+      "name": "module:ol/array.extend",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/array.js:132"
+    },
+    {
+      "name": "module:ol/array.remove",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/array.js:147"
+    },
+    {
+      "name": "module:ol/array.find",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/array.js:163"
+    },
+    {
+      "name": "module:ol/array.equals",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/array.js:182"
+    },
+    {
+      "name": "module:ol/array.stableSort",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/array.js:203"
+    },
+    {
+      "name": "module:ol/array.findIndex",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/array.js:224"
+    },
+    {
+      "name": "module:ol/array.isSorted",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/array.js:240"
+    },
+    {
+      "name": "module:ol/asserts.assert",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/asserts.js:10"
+    },
+    {
+      "name": "module:ol/centerconstraint.createExtent",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/centerconstraint.js:16"
+    },
+    {
+      "name": "module:ol/centerconstraint.none",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/centerconstraint.js:40"
+    },
+    {
+      "name": "module:ol/color.asString",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/color.js:42"
+    },
+    {
+      "name": "module:ol/color.fromString",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/color.js:73"
+    },
+    {
+      "name": "module:ol/color.asArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/color.js:132"
+    },
+    {
+      "name": "module:ol/color.normalize",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/color.js:199"
+    },
+    {
+      "name": "module:ol/color.toString",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/color.js:212"
+    },
+    {
+      "name": "module:ol/colorlike.asColorLike",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/colorlike.js:25"
+    },
+    {
+      "name": "module:ol/colorlike.isColorLike",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/colorlike.js:38"
+    },
+    {
+      "name": "module:ol/control/Attribution.render",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/Attribution.js:326"
+    },
+    {
+      "name": "module:ol/control/Attribution~Attribution",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/Attribution.js:331"
+    },
+    {
+      "name": "module:ol/control/Control~Control",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/Control.js:158"
+    },
+    {
+      "name": "module:ol/control/FullScreen~FullScreen",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/FullScreen.js:279"
+    },
+    {
+      "name": "module:ol/control/MousePosition.render",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/MousePosition.js:254"
+    },
+    {
+      "name": "module:ol/control/MousePosition~MousePosition",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/MousePosition.js:268"
+    },
+    {
+      "name": "module:ol/control/OverviewMap.render",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/OverviewMap.js:578"
+    },
+    {
+      "name": "module:ol/control/OverviewMap~OverviewMap",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/OverviewMap.js:584"
+    },
+    {
+      "name": "module:ol/control/Rotate.render",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/Rotate.js:158"
+    },
+    {
+      "name": "module:ol/control/Rotate~Rotate",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/Rotate.js:181"
+    },
+    {
+      "name": "module:ol/control/ScaleLine.Units",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/ScaleLine.js:23"
+    },
+    {
+      "name": "module:ol/control/ScaleLine.render",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/ScaleLine.js:293"
+    },
+    {
+      "name": "module:ol/control/ScaleLine~ScaleLine",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/ScaleLine.js:304"
+    },
+    {
+      "name": "module:ol/control/Zoom~Zoom",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/Zoom.js:139"
+    },
+    {
+      "name": "module:ol/control/ZoomSlider.render",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/ZoomSlider.js:353"
+    },
+    {
+      "name": "module:ol/control/ZoomSlider~ZoomSlider",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/ZoomSlider.js:368"
+    },
+    {
+      "name": "module:ol/control/ZoomToExtent~ZoomToExtent",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/ZoomToExtent.js:90"
+    },
+    {
+      "name": "module:ol/control/util.defaults",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control/util.js:42"
+    },
+    {
+      "name": "module:ol/control.Attribution",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control.js:5"
+    },
+    {
+      "name": "module:ol/control.Control",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control.js:6"
+    },
+    {
+      "name": "module:ol/control.FullScreen",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control.js:7"
+    },
+    {
+      "name": "module:ol/control.OverviewMap",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control.js:8"
+    },
+    {
+      "name": "module:ol/control.Rotate",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control.js:9"
+    },
+    {
+      "name": "module:ol/control.ScaleLine",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control.js:10"
+    },
+    {
+      "name": "module:ol/control.Zoom",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control.js:11"
+    },
+    {
+      "name": "module:ol/control.ZoomSlider",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control.js:12"
+    },
+    {
+      "name": "module:ol/control.ZoomToExtent",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control.js:13"
+    },
+    {
+      "name": "module:ol/control.defaults",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/control.js:14"
+    },
+    {
+      "name": "module:ol/coordinate.add",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:42"
+    },
+    {
+      "name": "module:ol/coordinate.closestOnCircle",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:56"
+    },
+    {
+      "name": "module:ol/coordinate.closestOnSegment",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:90"
+    },
+    {
+      "name": "module:ol/coordinate.createStringXY",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:146"
+    },
+    {
+      "name": "module:ol/coordinate.degreesToStringHDMS",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:166"
+    },
+    {
+      "name": "module:ol/coordinate.format",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:224"
+    },
+    {
+      "name": "module:ol/coordinate.equals",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:240"
+    },
+    {
+      "name": "module:ol/coordinate.rotate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:270"
+    },
+    {
+      "name": "module:ol/coordinate.scale",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:298"
+    },
+    {
+      "name": "module:ol/coordinate.squaredDistance",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:310"
+    },
+    {
+      "name": "module:ol/coordinate.distance",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:322"
+    },
+    {
+      "name": "module:ol/coordinate.squaredDistanceToSegment",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:335"
+    },
+    {
+      "name": "module:ol/coordinate.toStringHDMS",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:367"
+    },
+    {
+      "name": "module:ol/coordinate.toStringXY",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/coordinate.js:402"
+    },
+    {
+      "name": "module:ol/css.CLASS_HIDDEN",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/css.js:12"
+    },
+    {
+      "name": "module:ol/css.CLASS_SELECTABLE",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/css.js:21"
+    },
+    {
+      "name": "module:ol/css.CLASS_UNSELECTABLE",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/css.js:30"
+    },
+    {
+      "name": "module:ol/css.CLASS_UNSUPPORTED",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/css.js:39"
+    },
+    {
+      "name": "module:ol/css.CLASS_CONTROL",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/css.js:48"
+    },
+    {
+      "name": "module:ol/css.CLASS_COLLAPSED",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/css.js:58"
+    },
+    {
+      "name": "module:ol/css.getFontFamilies",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/css.js:67"
+    },
+    {
+      "name": "module:ol/dom.createCanvasContext2D",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/dom.js:12"
+    },
+    {
+      "name": "module:ol/dom.outerWidth",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/dom.js:31"
+    },
+    {
+      "name": "module:ol/dom.outerHeight",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/dom.js:47"
+    },
+    {
+      "name": "module:ol/dom.replaceNode",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/dom.js:59"
+    },
+    {
+      "name": "module:ol/dom.removeNode",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/dom.js:70"
+    },
+    {
+      "name": "module:ol/dom.removeChildren",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/dom.js:77"
+    },
+    {
+      "name": "module:ol/easing.easeIn",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/easing.js:12"
+    },
+    {
+      "name": "module:ol/easing.easeOut",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/easing.js:23"
+    },
+    {
+      "name": "module:ol/easing.inAndOut",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/easing.js:34"
+    },
+    {
+      "name": "module:ol/easing.linear",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/easing.js:45"
+    },
+    {
+      "name": "module:ol/easing.upAndDown",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/easing.js:58"
+    },
+    {
+      "name": "module:ol/events/Event.stopPropagation",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/Event.js:59"
+    },
+    {
+      "name": "module:ol/events/Event.preventDefault",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/Event.js:67"
+    },
+    {
+      "name": "module:ol/events/Event~Event",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/Event.js:71"
+    },
+    {
+      "name": "module:ol/events/EventType~EventType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/EventType.js:9"
+    },
+    {
+      "name": "module:ol/events/KeyCode~KeyCode",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/KeyCode.js:9"
+    },
+    {
+      "name": "module:ol/events/Target~Target",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/Target.js:173"
+    },
+    {
+      "name": "module:ol/events/condition.altKeyOnly",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:26"
+    },
+    {
+      "name": "module:ol/events/condition.altShiftKeysOnly",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:43"
+    },
+    {
+      "name": "module:ol/events/condition.focus",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:60"
+    },
+    {
+      "name": "module:ol/events/condition.always",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:73"
+    },
+    {
+      "name": "module:ol/events/condition.click",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:83"
+    },
+    {
+      "name": "module:ol/events/condition.mouseActionButton",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:97"
+    },
+    {
+      "name": "module:ol/events/condition.never",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:112"
+    },
+    {
+      "name": "module:ol/events/condition.pointerMove",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:123"
+    },
+    {
+      "name": "module:ol/events/condition.singleClick",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:135"
+    },
+    {
+      "name": "module:ol/events/condition.doubleClick",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:147"
+    },
+    {
+      "name": "module:ol/events/condition.noModifierKeys",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:160"
+    },
+    {
+      "name": "module:ol/events/condition.platformModifierKeyOnly",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:178"
+    },
+    {
+      "name": "module:ol/events/condition.shiftKeyOnly",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:194"
+    },
+    {
+      "name": "module:ol/events/condition.targetNotEditable",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:211"
+    },
+    {
+      "name": "module:ol/events/condition.mouseOnly",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:228"
+    },
+    {
+      "name": "module:ol/events/condition.primaryAction",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events/condition.js:246"
+    },
+    {
+      "name": "module:ol/events.bindListener",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events.js:34"
+    },
+    {
+      "name": "module:ol/events.findListener",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events.js:59"
+    },
+    {
+      "name": "module:ol/events.getListeners",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events.js:80"
+    },
+    {
+      "name": "module:ol/events.listen",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events.js:143"
+    },
+    {
+      "name": "module:ol/events.listenOnce",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events.js:191"
+    },
+    {
+      "name": "module:ol/events.unlisten",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events.js:209"
+    },
+    {
+      "name": "module:ol/events.unlistenByKey",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events.js:229"
+    },
+    {
+      "name": "module:ol/events.unlistenAll",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/events.js:253"
+    },
+    {
+      "name": "module:ol/extent/Corner~Corner",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent/Corner.js:9"
+    },
+    {
+      "name": "module:ol/extent/Relationship~Relationship",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent/Relationship.js:9"
+    },
+    {
+      "name": "module:ol/extent.boundingExtent",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:22"
+    },
+    {
+      "name": "module:ol/extent.buffer",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:55"
+    },
+    {
+      "name": "module:ol/extent.clone",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:80"
+    },
+    {
+      "name": "module:ol/extent.closestSquaredDistanceXY",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:99"
+    },
+    {
+      "name": "module:ol/extent.containsCoordinate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:127"
+    },
+    {
+      "name": "module:ol/extent.containsExtent",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:144"
+    },
+    {
+      "name": "module:ol/extent.containsXY",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:159"
+    },
+    {
+      "name": "module:ol/extent.coordinateRelationship",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:171"
+    },
+    {
+      "name": "module:ol/extent.createEmpty",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:201"
+    },
+    {
+      "name": "module:ol/extent.createOrUpdate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:215"
+    },
+    {
+      "name": "module:ol/extent.createOrUpdateEmpty",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:233"
+    },
+    {
+      "name": "module:ol/extent.createOrUpdateFromCoordinate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:244"
+    },
+    {
+      "name": "module:ol/extent.createOrUpdateFromCoordinates",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:256"
+    },
+    {
+      "name": "module:ol/extent.createOrUpdateFromFlatCoordinates",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:270"
+    },
+    {
+      "name": "module:ol/extent.createOrUpdateFromRings",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:280"
+    },
+    {
+      "name": "module:ol/extent.equals",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:293"
+    },
+    {
+      "name": "module:ol/extent.extend",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:306"
+    },
+    {
+      "name": "module:ol/extent.extendCoordinate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:327"
+    },
+    {
+      "name": "module:ol/extent.extendCoordinates",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:348"
+    },
+    {
+      "name": "module:ol/extent.extendFlatCoordinates",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:364"
+    },
+    {
+      "name": "module:ol/extent.extendRings",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:377"
+    },
+    {
+      "name": "module:ol/extent.extendXY",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:390"
+    },
+    {
+      "name": "module:ol/extent.forEachCorner",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:408"
+    },
+    {
+      "name": "module:ol/extent.getArea",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:436"
+    },
+    {
+      "name": "module:ol/extent.getBottomLeft",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:451"
+    },
+    {
+      "name": "module:ol/extent.getBottomRight",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:462"
+    },
+    {
+      "name": "module:ol/extent.getCenter",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:473"
+    },
+    {
+      "name": "module:ol/extent.getCorner",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:484"
+    },
+    {
+      "name": "module:ol/extent.getEnlargedArea",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:508"
+    },
+    {
+      "name": "module:ol/extent.getForViewAndSize",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:525"
+    },
+    {
+      "name": "module:ol/extent.getHeight",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:557"
+    },
+    {
+      "name": "module:ol/extent.getIntersectionArea",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:567"
+    },
+    {
+      "name": "module:ol/extent.getIntersection",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:581"
+    },
+    {
+      "name": "module:ol/extent.getMargin",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:615"
+    },
+    {
+      "name": "module:ol/extent.getSize",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:626"
+    },
+    {
+      "name": "module:ol/extent.getTopLeft",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:637"
+    },
+    {
+      "name": "module:ol/extent.getTopRight",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:648"
+    },
+    {
+      "name": "module:ol/extent.getWidth",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:659"
+    },
+    {
+      "name": "module:ol/extent.intersects",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:671"
+    },
+    {
+      "name": "module:ol/extent.isEmpty",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:685"
+    },
+    {
+      "name": "module:ol/extent.returnOrUpdate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:695"
+    },
+    {
+      "name": "module:ol/extent.scaleFromCenter",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:712"
+    },
+    {
+      "name": "module:ol/extent.intersectsSegment",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:730"
+    },
+    {
+      "name": "module:ol/extent.applyTransform",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/extent.js:787"
+    },
+    {
+      "name": "module:ol/featureloader.loadFeaturesXhr",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/featureloader.js:50"
+    },
+    {
+      "name": "module:ol/featureloader.xhr",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/featureloader.js:118"
+    },
+    {
+      "name": "module:ol/format/EsriJSON~EsriJSON",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/EsriJSON.js:560"
+    },
+    {
+      "name": "module:ol/format/Feature~Feature",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/Feature.js:196"
+    },
+    {
+      "name": "module:ol/format/Feature.transformWithOptions",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/Feature.js:205"
+    },
+    {
+      "name": "module:ol/format/FormatType~FormatType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/FormatType.js:8"
+    },
+    {
+      "name": "module:ol/format/GML~GML",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/GML.js:42"
+    },
+    {
+      "name": "module:ol/format/GML2~GML2",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/GML2.js:745"
+    },
+    {
+      "name": "module:ol/format/GML3~GML3",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/GML3.js:1213"
+    },
+    {
+      "name": "module:ol/format/GMLBase.GMLNS",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/GMLBase.js:28"
+    },
+    {
+      "name": "module:ol/format/GMLBase~GMLBase",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/GMLBase.js:564"
+    },
+    {
+      "name": "module:ol/format/GPX~GPX",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/GPX.js:861"
+    },
+    {
+      "name": "module:ol/format/GeoJSON~GeoJSON",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/GeoJSON.js:485"
+    },
+    {
+      "name": "module:ol/format/IGC~IGC",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/IGC.js:181"
+    },
+    {
+      "name": "module:ol/format/JSONFeature~JSONFeature",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/JSONFeature.js:198"
+    },
+    {
+      "name": "module:ol/format/KML.getDefaultFillStyle",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/KML.js:201"
+    },
+    {
+      "name": "module:ol/format/KML.getDefaultImageStyle",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/KML.js:244"
+    },
+    {
+      "name": "module:ol/format/KML.getDefaultStrokeStyle",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/KML.js:262"
+    },
+    {
+      "name": "module:ol/format/KML.getDefaultTextStyle",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/KML.js:280"
+    },
+    {
+      "name": "module:ol/format/KML.getDefaultStyle",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/KML.js:293"
+    },
+    {
+      "name": "module:ol/format/KML.getDefaultStyleArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/KML.js:306"
+    },
+    {
+      "name": "module:ol/format/KML.readFlatCoordinates",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/KML.js:1030"
+    },
+    {
+      "name": "module:ol/format/KML~KML",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/KML.js:2945"
+    },
+    {
+      "name": "module:ol/format/MVT~MVT",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/MVT.js:423"
+    },
+    {
+      "name": "module:ol/format/OSMXML~OSMXML",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/OSMXML.js:187"
+    },
+    {
+      "name": "module:ol/format/OWS~OWS",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/OWS.js:387"
+    },
+    {
+      "name": "module:ol/format/Polyline.encodeDeltas",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/Polyline.js:151"
+    },
+    {
+      "name": "module:ol/format/Polyline.decodeDeltas",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/Polyline.js:185"
+    },
+    {
+      "name": "module:ol/format/Polyline.encodeFloats",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/Polyline.js:221"
+    },
+    {
+      "name": "module:ol/format/Polyline.decodeFloats",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/Polyline.js:240"
+    },
+    {
+      "name": "module:ol/format/Polyline.encodeSignedIntegers",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/Polyline.js:258"
+    },
+    {
+      "name": "module:ol/format/Polyline.decodeSignedIntegers",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/Polyline.js:273"
+    },
+    {
+      "name": "module:ol/format/Polyline.encodeUnsignedIntegers",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/Polyline.js:289"
+    },
+    {
+      "name": "module:ol/format/Polyline.decodeUnsignedIntegers",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/Polyline.js:304"
+    },
+    {
+      "name": "module:ol/format/Polyline.encodeUnsignedInteger",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/Polyline.js:329"
+    },
+    {
+      "name": "module:ol/format/Polyline~Polyline",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/Polyline.js:342"
+    },
+    {
+      "name": "module:ol/format/TextFeature~TextFeature",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/TextFeature.js:197"
+    },
+    {
+      "name": "module:ol/format/TopoJSON~TopoJSON",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/TopoJSON.js:402"
+    },
+    {
+      "name": "module:ol/format/WFS.writeFilter",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/WFS.js:1073"
+    },
+    {
+      "name": "module:ol/format/WFS~WFS",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/WFS.js:1096"
+    },
+    {
+      "name": "module:ol/format/WKT~WKT",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/WKT.js:883"
+    },
+    {
+      "name": "module:ol/format/WMSCapabilities~WMSCapabilities",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/WMSCapabilities.js:645"
+    },
+    {
+      "name": "module:ol/format/WMSGetFeatureInfo~WMSGetFeatureInfo",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/WMSGetFeatureInfo.js:159"
+    },
+    {
+      "name": "module:ol/format/WMTSCapabilities~WMTSCapabilities",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/WMTSCapabilities.js:394"
+    },
+    {
+      "name": "module:ol/format/XLink.readHref",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/XLink.js:17"
+    },
+    {
+      "name": "module:ol/format/XML~XML",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/XML.js:41"
+    },
+    {
+      "name": "module:ol/format/XMLFeature~XMLFeature",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/XMLFeature.js:270"
+    },
+    {
+      "name": "module:ol/format/filter/And~And",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/And.js:25"
+    },
+    {
+      "name": "module:ol/format/filter/Bbox~Bbox",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/Bbox.js:41"
+    },
+    {
+      "name": "module:ol/format/filter/Comparison~Comparison",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/Comparison.js:31"
+    },
+    {
+      "name": "module:ol/format/filter/ComparisonBinary~ComparisonBinary",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/ComparisonBinary.js:36"
+    },
+    {
+      "name": "module:ol/format/filter/Contains~Contains",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/Contains.js:26"
+    },
+    {
+      "name": "module:ol/format/filter/During~During",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/During.js:33"
+    },
+    {
+      "name": "module:ol/format/filter/EqualTo~EqualTo",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/EqualTo.js:23"
+    },
+    {
+      "name": "module:ol/format/filter/Filter~Filter",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/Filter.js:30"
+    },
+    {
+      "name": "module:ol/format/filter/GreaterThan~GreaterThan",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/GreaterThan.js:23"
+    },
+    {
+      "name": "module:ol/format/filter/GreaterThanOrEqualTo~GreaterThanOrEqualTo",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/GreaterThanOrEqualTo.js:23"
+    },
+    {
+      "name": "module:ol/format/filter/Intersects~Intersects",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/Intersects.js:24"
+    },
+    {
+      "name": "module:ol/format/filter/IsBetween~IsBetween",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/IsBetween.js:34"
+    },
+    {
+      "name": "module:ol/format/filter/IsLike~IsLike",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/IsLike.js:49"
+    },
+    {
+      "name": "module:ol/format/filter/IsNull~IsNull",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/IsNull.js:23"
+    },
+    {
+      "name": "module:ol/format/filter/LessThan~LessThan",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/LessThan.js:23"
+    },
+    {
+      "name": "module:ol/format/filter/LessThanOrEqualTo~LessThanOrEqualTo",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/LessThanOrEqualTo.js:23"
+    },
+    {
+      "name": "module:ol/format/filter/LogicalNary~LogicalNary",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/LogicalNary.js:33"
+    },
+    {
+      "name": "module:ol/format/filter/Not~Not",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/Not.js:30"
+    },
+    {
+      "name": "module:ol/format/filter/NotEqualTo~NotEqualTo",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/NotEqualTo.js:23"
+    },
+    {
+      "name": "module:ol/format/filter/Or~Or",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/Or.js:24"
+    },
+    {
+      "name": "module:ol/format/filter/Spatial~Spatial",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/Spatial.js:42"
+    },
+    {
+      "name": "module:ol/format/filter/Within~Within",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter/Within.js:24"
+    },
+    {
+      "name": "module:ol/format/filter.and",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:30"
+    },
+    {
+      "name": "module:ol/format/filter.or",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:43"
+    },
+    {
+      "name": "module:ol/format/filter.not",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:56"
+    },
+    {
+      "name": "module:ol/format/filter.bbox",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:72"
+    },
+    {
+      "name": "module:ol/format/filter.contains",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:87"
+    },
+    {
+      "name": "module:ol/format/filter.intersects",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:102"
+    },
+    {
+      "name": "module:ol/format/filter.within",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:117"
+    },
+    {
+      "name": "module:ol/format/filter.equalTo",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:131"
+    },
+    {
+      "name": "module:ol/format/filter.notEqualTo",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:145"
+    },
+    {
+      "name": "module:ol/format/filter.lessThan",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:158"
+    },
+    {
+      "name": "module:ol/format/filter.lessThanOrEqualTo",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:171"
+    },
+    {
+      "name": "module:ol/format/filter.greaterThan",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:184"
+    },
+    {
+      "name": "module:ol/format/filter.greaterThanOrEqualTo",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:197"
+    },
+    {
+      "name": "module:ol/format/filter.isNull",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:210"
+    },
+    {
+      "name": "module:ol/format/filter.between",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:225"
+    },
+    {
+      "name": "module:ol/format/filter.like",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:246"
+    },
+    {
+      "name": "module:ol/format/filter.during",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/filter.js:262"
+    },
+    {
+      "name": "module:ol/format/xsd.readBoolean",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:12"
+    },
+    {
+      "name": "module:ol/format/xsd.readBooleanString",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:22"
+    },
+    {
+      "name": "module:ol/format/xsd.readDateTime",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:36"
+    },
+    {
+      "name": "module:ol/format/xsd.readDecimal",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:47"
+    },
+    {
+      "name": "module:ol/format/xsd.readDecimalString",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:57"
+    },
+    {
+      "name": "module:ol/format/xsd.readNonNegativeInteger",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:72"
+    },
+    {
+      "name": "module:ol/format/xsd.readNonNegativeIntegerString",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:82"
+    },
+    {
+      "name": "module:ol/format/xsd.readString",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:96"
+    },
+    {
+      "name": "module:ol/format/xsd.writeBooleanTextNode",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:105"
+    },
+    {
+      "name": "module:ol/format/xsd.writeCDATASection",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:114"
+    },
+    {
+      "name": "module:ol/format/xsd.writeDateTimeTextNode",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:123"
+    },
+    {
+      "name": "module:ol/format/xsd.writeDecimalTextNode",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:139"
+    },
+    {
+      "name": "module:ol/format/xsd.writeNonNegativeIntegerTextNode",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:149"
+    },
+    {
+      "name": "module:ol/format/xsd.writeStringTextNode",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format/xsd.js:159"
+    },
+    {
+      "name": "module:ol/format.EsriJSON",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:5"
+    },
+    {
+      "name": "module:ol/format.GeoJSON",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:6"
+    },
+    {
+      "name": "module:ol/format.GML",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:7"
+    },
+    {
+      "name": "module:ol/format.GPX",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:8"
+    },
+    {
+      "name": "module:ol/format.IGC",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:9"
+    },
+    {
+      "name": "module:ol/format.KML",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:10"
+    },
+    {
+      "name": "module:ol/format.MVT",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:11"
+    },
+    {
+      "name": "module:ol/format.OWS",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:12"
+    },
+    {
+      "name": "module:ol/format.Polyline",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:13"
+    },
+    {
+      "name": "module:ol/format.TopoJSON",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:14"
+    },
+    {
+      "name": "module:ol/format.WFS",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:15"
+    },
+    {
+      "name": "module:ol/format.WKT",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:16"
+    },
+    {
+      "name": "module:ol/format.WMSCapabilities",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:17"
+    },
+    {
+      "name": "module:ol/format.WMSGetFeatureInfo",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:18"
+    },
+    {
+      "name": "module:ol/format.WMTSCapabilities",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/format.js:19"
+    },
+    {
+      "name": "module:ol/functions.TRUE",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/functions.js:9"
+    },
+    {
+      "name": "module:ol/functions.FALSE",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/functions.js:17"
+    },
+    {
+      "name": "module:ol/functions.VOID",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/functions.js:26"
+    },
+    {
+      "name": "module:ol/geom/Circle~Circle",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/Circle.js:237"
+    },
+    {
+      "name": "module:ol/geom/Geometry~Geometry",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/Geometry.js:267"
+    },
+    {
+      "name": "module:ol/geom/GeometryCollection~GeometryCollection",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/GeometryCollection.js:301"
+    },
+    {
+      "name": "module:ol/geom/GeometryLayout~GeometryLayout",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/GeometryLayout.js:11"
+    },
+    {
+      "name": "module:ol/geom/GeometryType~GeometryType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/GeometryType.js:11"
+    },
+    {
+      "name": "module:ol/geom/LineString~LineString",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/LineString.js:243"
+    },
+    {
+      "name": "module:ol/geom/LinearRing~LinearRing",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/LinearRing.js:142"
+    },
+    {
+      "name": "module:ol/geom/MultiLineString~MultiLineString",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/MultiLineString.js:272"
+    },
+    {
+      "name": "module:ol/geom/MultiPoint~MultiPoint",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/MultiPoint.js:171"
+    },
+    {
+      "name": "module:ol/geom/MultiPolygon~MultiPolygon",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/MultiPolygon.js:376"
+    },
+    {
+      "name": "module:ol/geom/Point~Point",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/Point.js:106"
+    },
+    {
+      "name": "module:ol/geom/Polygon~Polygon",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/Polygon.js:327"
+    },
+    {
+      "name": "module:ol/geom/Polygon.circular",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/Polygon.js:342"
+    },
+    {
+      "name": "module:ol/geom/Polygon.fromExtent",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/Polygon.js:360"
+    },
+    {
+      "name": "module:ol/geom/Polygon.fromCircle",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/Polygon.js:380"
+    },
+    {
+      "name": "module:ol/geom/Polygon.makeRegular",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/Polygon.js:409"
+    },
+    {
+      "name": "module:ol/geom/SimpleGeometry.getStrideForLayout",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/SimpleGeometry.js:289"
+    },
+    {
+      "name": "module:ol/geom/SimpleGeometry.transformGeom2D",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/SimpleGeometry.js:314"
+    },
+    {
+      "name": "module:ol/geom/SimpleGeometry~SimpleGeometry",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/SimpleGeometry.js:326"
+    },
+    {
+      "name": "module:ol/geom/flat/area.linearRing",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/area.js:13"
+    },
+    {
+      "name": "module:ol/geom/flat/area.linearRings",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/area.js:35"
+    },
+    {
+      "name": "module:ol/geom/flat/area.linearRingss",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/area.js:53"
+    },
+    {
+      "name": "module:ol/geom/flat/center.linearRingss",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/center.js:14"
+    },
+    {
+      "name": "module:ol/geom/flat/closest.maxSquaredDelta",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/closest.js:59"
+    },
+    {
+      "name": "module:ol/geom/flat/closest.arrayMaxSquaredDelta",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/closest.js:84"
+    },
+    {
+      "name": "module:ol/geom/flat/closest.multiArrayMaxSquaredDelta",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/closest.js:103"
+    },
+    {
+      "name": "module:ol/geom/flat/closest.assignClosestPoint",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/closest.js:128"
+    },
+    {
+      "name": "module:ol/geom/flat/closest.assignClosestArrayPoint",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/closest.js:209"
+    },
+    {
+      "name": "module:ol/geom/flat/closest.assignClosestMultiArrayPoint",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/closest.js:238"
+    },
+    {
+      "name": "module:ol/geom/flat/contains.linearRingContainsExtent",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/contains.js:15"
+    },
+    {
+      "name": "module:ol/geom/flat/contains.linearRingContainsXY",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/contains.js:37"
+    },
+    {
+      "name": "module:ol/geom/flat/contains.linearRingsContainsXY",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/contains.js:74"
+    },
+    {
+      "name": "module:ol/geom/flat/contains.linearRingssContainsXY",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/contains.js:99"
+    },
+    {
+      "name": "module:ol/geom/flat/deflate.deflateCoordinate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/deflate.js:13"
+    },
+    {
+      "name": "module:ol/geom/flat/deflate.deflateCoordinates",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/deflate.js:28"
+    },
+    {
+      "name": "module:ol/geom/flat/deflate.deflateCoordinatesArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/deflate.js:47"
+    },
+    {
+      "name": "module:ol/geom/flat/deflate.deflateMultiCoordinatesArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/deflate.js:69"
+    },
+    {
+      "name": "module:ol/geom/flat/flip.flipXY",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/flip.js:15"
+    },
+    {
+      "name": "module:ol/geom/flat/geodesic.greatCircleArc",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/geodesic.js:91"
+    },
+    {
+      "name": "module:ol/geom/flat/geodesic.meridian",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/geodesic.js:135"
+    },
+    {
+      "name": "module:ol/geom/flat/geodesic.parallel",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/geodesic.js:158"
+    },
+    {
+      "name": "module:ol/geom/flat/inflate.inflateCoordinates",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/inflate.js:14"
+    },
+    {
+      "name": "module:ol/geom/flat/inflate.inflateCoordinatesArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/inflate.js:33"
+    },
+    {
+      "name": "module:ol/geom/flat/inflate.inflateMultiCoordinatesArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/inflate.js:56"
+    },
+    {
+      "name": "module:ol/geom/flat/interiorpoint.getInteriorPointOfArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/interiorpoint.js:21"
+    },
+    {
+      "name": "module:ol/geom/flat/interiorpoint.getInteriorPointsOfMultiArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/interiorpoint.js:84"
+    },
+    {
+      "name": "module:ol/geom/flat/interpolate.interpolatePoint",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/interpolate.js:17"
+    },
+    {
+      "name": "module:ol/geom/flat/interpolate.lineStringCoordinateAtM",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/interpolate.js:76"
+    },
+    {
+      "name": "module:ol/geom/flat/interpolate.lineStringsCoordinateAtM",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/interpolate.js:138"
+    },
+    {
+      "name": "module:ol/geom/flat/intersectsextent.intersectsLineString",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/intersectsextent.js:17"
+    },
+    {
+      "name": "module:ol/geom/flat/intersectsextent.intersectsLineStringArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/intersectsextent.js:55"
+    },
+    {
+      "name": "module:ol/geom/flat/intersectsextent.intersectsLinearRing",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/intersectsextent.js:75"
+    },
+    {
+      "name": "module:ol/geom/flat/intersectsextent.intersectsLinearRingArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/intersectsextent.js:104"
+    },
+    {
+      "name": "module:ol/geom/flat/intersectsextent.intersectsLinearRingMultiArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/intersectsextent.js:129"
+    },
+    {
+      "name": "module:ol/geom/flat/length.lineStringLength",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/length.js:13"
+    },
+    {
+      "name": "module:ol/geom/flat/length.linearRingLength",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/length.js:35"
+    },
+    {
+      "name": "module:ol/geom/flat/orient.linearRingIsClockwise",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/orient.js:14"
+    },
+    {
+      "name": "module:ol/geom/flat/orient.linearRingIsOriented",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/orient.js:44"
+    },
+    {
+      "name": "module:ol/geom/flat/orient.linearRingsAreOriented",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/orient.js:78"
+    },
+    {
+      "name": "module:ol/geom/flat/orient.orientLinearRings",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/orient.js:102"
+    },
+    {
+      "name": "module:ol/geom/flat/orient.orientLinearRingsArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/orient.js:133"
+    },
+    {
+      "name": "module:ol/geom/flat/reverse.coordinates",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/reverse.js:12"
+    },
+    {
+      "name": "module:ol/geom/flat/segments.forEach",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/segments.js:21"
+    },
+    {
+      "name": "module:ol/geom/flat/simplify.simplifyLineString",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/simplify.js:44"
+    },
+    {
+      "name": "module:ol/geom/flat/simplify.douglasPeucker",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/simplify.js:74"
+    },
+    {
+      "name": "module:ol/geom/flat/simplify.douglasPeuckerArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/simplify.js:145"
+    },
+    {
+      "name": "module:ol/geom/flat/simplify.douglasPeuckerMultiArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/simplify.js:172"
+    },
+    {
+      "name": "module:ol/geom/flat/simplify.radialDistance",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/simplify.js:199"
+    },
+    {
+      "name": "module:ol/geom/flat/simplify.snap",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/simplify.js:242"
+    },
+    {
+      "name": "module:ol/geom/flat/simplify.quantize",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/simplify.js:266"
+    },
+    {
+      "name": "module:ol/geom/flat/simplify.quantizeArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/simplify.js:351"
+    },
+    {
+      "name": "module:ol/geom/flat/simplify.quantizeMultiArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/simplify.js:380"
+    },
+    {
+      "name": "module:ol/geom/flat/straightchunk.matchingChunk",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/straightchunk.js:15"
+    },
+    {
+      "name": "module:ol/geom/flat/textpath.drawTextOnPath",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/textpath.js:20"
+    },
+    {
+      "name": "module:ol/geom/flat/topology.lineStringIsClosed",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/topology.js:14"
+    },
+    {
+      "name": "module:ol/geom/flat/transform.transform2D",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/transform.js:15"
+    },
+    {
+      "name": "module:ol/geom/flat/transform.rotate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/transform.js:41"
+    },
+    {
+      "name": "module:ol/geom/flat/transform.scale",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/transform.js:76"
+    },
+    {
+      "name": "module:ol/geom/flat/transform.translate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom/flat/transform.js:107"
+    },
+    {
+      "name": "module:ol/geom.Circle",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom.js:5"
+    },
+    {
+      "name": "module:ol/geom.Geometry",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom.js:6"
+    },
+    {
+      "name": "module:ol/geom.LineString",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom.js:7"
+    },
+    {
+      "name": "module:ol/geom.MultiLineString",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom.js:8"
+    },
+    {
+      "name": "module:ol/geom.MultiPoint",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom.js:9"
+    },
+    {
+      "name": "module:ol/geom.MultiPolygon",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom.js:10"
+    },
+    {
+      "name": "module:ol/geom.Point",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom.js:11"
+    },
+    {
+      "name": "module:ol/geom.Polygon",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/geom.js:12"
+    },
+    {
+      "name": "module:ol/has.FIREFOX",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/has.js:12"
+    },
+    {
+      "name": "module:ol/has.SAFARI",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/has.js:18"
+    },
+    {
+      "name": "module:ol/has.WEBKIT",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/has.js:24"
+    },
+    {
+      "name": "module:ol/has.MAC",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/has.js:30"
+    },
+    {
+      "name": "module:ol/has.DEVICE_PIXEL_RATIO",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/has.js:40"
+    },
+    {
+      "name": "module:ol/has.CANVAS_LINE_DASH",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/has.js:47"
+    },
+    {
+      "name": "module:ol/has.GEOLOCATION",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/has.js:64"
+    },
+    {
+      "name": "module:ol/has.TOUCH",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/has.js:73"
+    },
+    {
+      "name": "module:ol/has.POINTER",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/has.js:81"
+    },
+    {
+      "name": "module:ol/has.MSPOINTER",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/has.js:89"
+    },
+    {
+      "name": "module:ol/has.WEBGL",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/has.js:92"
+    },
+    {
+      "name": "module:ol.AssertionError",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:5"
+    },
+    {
+      "name": "module:ol.Collection",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:6"
+    },
+    {
+      "name": "module:ol.Disposable",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:7"
+    },
+    {
+      "name": "module:ol.Feature",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:8"
+    },
+    {
+      "name": "module:ol.Geolocation",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:9"
+    },
+    {
+      "name": "module:ol.Graticule",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:10"
+    },
+    {
+      "name": "module:ol.Image",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:11"
+    },
+    {
+      "name": "module:ol.ImageBase",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:12"
+    },
+    {
+      "name": "module:ol.ImageCanvas",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:13"
+    },
+    {
+      "name": "module:ol.ImageTile",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:14"
+    },
+    {
+      "name": "module:ol.Kinetic",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:15"
+    },
+    {
+      "name": "module:ol.Map",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:16"
+    },
+    {
+      "name": "module:ol.MapBrowserEvent",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:17"
+    },
+    {
+      "name": "module:ol.MapBrowserEventHandler",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:18"
+    },
+    {
+      "name": "module:ol.MapBrowserPointerEvent",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:19"
+    },
+    {
+      "name": "module:ol.MapEvent",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:20"
+    },
+    {
+      "name": "module:ol.Object",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:21"
+    },
+    {
+      "name": "module:ol.Observable",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:22"
+    },
+    {
+      "name": "module:ol.Overlay",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:23"
+    },
+    {
+      "name": "module:ol.PluggableMap",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:24"
+    },
+    {
+      "name": "module:ol.Tile",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:25"
+    },
+    {
+      "name": "module:ol.TileCache",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:26"
+    },
+    {
+      "name": "module:ol.TileQueue",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:27"
+    },
+    {
+      "name": "module:ol.TileRange",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:28"
+    },
+    {
+      "name": "module:ol.VectorImageTile",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:29"
+    },
+    {
+      "name": "module:ol.VectorTile",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:30"
+    },
+    {
+      "name": "module:ol.View",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:31"
+    },
+    {
+      "name": "module:ol.WebGLMap",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:32"
+    },
+    {
+      "name": "module:ol.getUid",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:34"
+    },
+    {
+      "name": "module:ol.inherits",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:34"
+    },
+    {
+      "name": "module:ol.VERSION",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/index.js:34"
+    },
+    {
+      "name": "module:ol/interaction/DoubleClickZoom~DoubleClickZoom",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/DoubleClickZoom.js:72"
+    },
+    {
+      "name": "module:ol/interaction/DragAndDrop~DragAndDrop",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/DragAndDrop.js:275"
+    },
+    {
+      "name": "module:ol/interaction/DragBox~DragBox",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/DragBox.js:256"
+    },
+    {
+      "name": "module:ol/interaction/DragPan~DragPan",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/DragPan.js:186"
+    },
+    {
+      "name": "module:ol/interaction/DragRotate~DragRotate",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/DragRotate.js:137"
+    },
+    {
+      "name": "module:ol/interaction/DragRotateAndZoom~DragRotateAndZoom",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/DragRotateAndZoom.js:157"
+    },
+    {
+      "name": "module:ol/interaction/DragZoom~DragZoom",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/DragZoom.js:101"
+    },
+    {
+      "name": "module:ol/interaction/Draw.handleEvent",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Draw.js:835"
+    },
+    {
+      "name": "module:ol/interaction/Draw.createRegularPolygon",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Draw.js:966"
+    },
+    {
+      "name": "module:ol/interaction/Draw.createBox",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Draw.js:993"
+    },
+    {
+      "name": "module:ol/interaction/Draw~Draw",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Draw.js:1042"
+    },
+    {
+      "name": "module:ol/interaction/Extent~Extent",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Extent.js:491"
+    },
+    {
+      "name": "module:ol/interaction/Interaction.pan",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Interaction.js:105"
+    },
+    {
+      "name": "module:ol/interaction/Interaction.rotate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Interaction.js:129"
+    },
+    {
+      "name": "module:ol/interaction/Interaction.rotateWithoutConstraints",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Interaction.js:141"
+    },
+    {
+      "name": "module:ol/interaction/Interaction.zoom",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Interaction.js:173"
+    },
+    {
+      "name": "module:ol/interaction/Interaction.zoomByDelta",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Interaction.js:185"
+    },
+    {
+      "name": "module:ol/interaction/Interaction.zoomWithoutConstraints",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Interaction.js:223"
+    },
+    {
+      "name": "module:ol/interaction/Interaction~Interaction",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Interaction.js:245"
+    },
+    {
+      "name": "module:ol/interaction/KeyboardPan~KeyboardPan",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/KeyboardPan.js:127"
+    },
+    {
+      "name": "module:ol/interaction/KeyboardZoom~KeyboardZoom",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/KeyboardZoom.js:97"
+    },
+    {
+      "name": "module:ol/interaction/Modify.ModifyEvent",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Modify.js:109"
+    },
+    {
+      "name": "module:ol/interaction/Modify~Modify",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Modify.js:1282"
+    },
+    {
+      "name": "module:ol/interaction/MouseWheelZoom.Mode",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/MouseWheelZoom.js:23"
+    },
+    {
+      "name": "module:ol/interaction/MouseWheelZoom~MouseWheelZoom",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/MouseWheelZoom.js:321"
+    },
+    {
+      "name": "module:ol/interaction/PinchRotate~PinchRotate",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/PinchRotate.js:175"
+    },
+    {
+      "name": "module:ol/interaction/PinchZoom~PinchZoom",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/PinchZoom.js:175"
+    },
+    {
+      "name": "module:ol/interaction/Pointer.centroid",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Pointer.js:177"
+    },
+    {
+      "name": "module:ol/interaction/Pointer.handleEvent",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Pointer.js:211"
+    },
+    {
+      "name": "module:ol/interaction/Pointer~Pointer",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Pointer.js:241"
+    },
+    {
+      "name": "module:ol/interaction/Property~Property",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Property.js:8"
+    },
+    {
+      "name": "module:ol/interaction/Select~Select",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Select.js:494"
+    },
+    {
+      "name": "module:ol/interaction/Snap.handleEvent",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Snap.js:613"
+    },
+    {
+      "name": "module:ol/interaction/Snap~Snap",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Snap.js:651"
+    },
+    {
+      "name": "module:ol/interaction/Translate.TranslateEvent",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Translate.js:59"
+    },
+    {
+      "name": "module:ol/interaction/Translate~Translate",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction/Translate.js:331"
+    },
+    {
+      "name": "module:ol/interaction.DoubleClickZoom",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:17"
+    },
+    {
+      "name": "module:ol/interaction.DragAndDrop",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:18"
+    },
+    {
+      "name": "module:ol/interaction.DragBox",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:19"
+    },
+    {
+      "name": "module:ol/interaction.DragPan",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:20"
+    },
+    {
+      "name": "module:ol/interaction.DragRotate",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:21"
+    },
+    {
+      "name": "module:ol/interaction.DragRotateAndZoom",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:22"
+    },
+    {
+      "name": "module:ol/interaction.DragZoom",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:23"
+    },
+    {
+      "name": "module:ol/interaction.Draw",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:24"
+    },
+    {
+      "name": "module:ol/interaction.Extent",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:25"
+    },
+    {
+      "name": "module:ol/interaction.Interaction",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:26"
+    },
+    {
+      "name": "module:ol/interaction.KeyboardPan",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:27"
+    },
+    {
+      "name": "module:ol/interaction.KeyboardZoom",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:28"
+    },
+    {
+      "name": "module:ol/interaction.Modify",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:29"
+    },
+    {
+      "name": "module:ol/interaction.MouseWheelZoom",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:30"
+    },
+    {
+      "name": "module:ol/interaction.PinchRotate",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:31"
+    },
+    {
+      "name": "module:ol/interaction.PinchZoom",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:32"
+    },
+    {
+      "name": "module:ol/interaction.Pointer",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:33"
+    },
+    {
+      "name": "module:ol/interaction.Select",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:34"
+    },
+    {
+      "name": "module:ol/interaction.Snap",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:35"
+    },
+    {
+      "name": "module:ol/interaction.Translate",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:36"
+    },
+    {
+      "name": "module:ol/interaction.defaults",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/interaction.js:90"
+    },
+    {
+      "name": "module:ol/layer/Base~Base",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/Base.js:255"
+    },
+    {
+      "name": "module:ol/layer/Group~Group",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/Group.js:245"
+    },
+    {
+      "name": "module:ol/layer/Heatmap~Heatmap",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/Heatmap.js:313"
+    },
+    {
+      "name": "module:ol/layer/Image~Image",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/Image.js:68"
+    },
+    {
+      "name": "module:ol/layer/Layer.visibleAtResolution",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/Layer.js:228"
+    },
+    {
+      "name": "module:ol/layer/Layer~Layer",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/Layer.js:234"
+    },
+    {
+      "name": "module:ol/layer/Property~Property",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/Property.js:8"
+    },
+    {
+      "name": "module:ol/layer/Tile~Tile",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/Tile.js:122"
+    },
+    {
+      "name": "module:ol/layer/TileProperty~TileProperty",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/TileProperty.js:8"
+    },
+    {
+      "name": "module:ol/layer/Vector.RenderType",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/Vector.js:65"
+    },
+    {
+      "name": "module:ol/layer/Vector~Vector",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/Vector.js:276"
+    },
+    {
+      "name": "module:ol/layer/VectorRenderType~VectorRenderType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/VectorRenderType.js:15"
+    },
+    {
+      "name": "module:ol/layer/VectorTile.RenderType",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/VectorTile.js:25"
+    },
+    {
+      "name": "module:ol/layer/VectorTile~VectorTile",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/VectorTile.js:188"
+    },
+    {
+      "name": "module:ol/layer/VectorTileRenderType~VectorTileRenderType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer/VectorTileRenderType.js:18"
+    },
+    {
+      "name": "module:ol/layer.Group",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer.js:6"
+    },
+    {
+      "name": "module:ol/layer.Heatmap",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer.js:7"
+    },
+    {
+      "name": "module:ol/layer.Image",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer.js:8"
+    },
+    {
+      "name": "module:ol/layer.Layer",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer.js:9"
+    },
+    {
+      "name": "module:ol/layer.Tile",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer.js:10"
+    },
+    {
+      "name": "module:ol/layer.Vector",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer.js:11"
+    },
+    {
+      "name": "module:ol/layer.VectorTile",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/layer.js:12"
+    },
+    {
+      "name": "module:ol/loadingstrategy.all",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/loadingstrategy.js:13"
+    },
+    {
+      "name": "module:ol/loadingstrategy.bbox",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/loadingstrategy.js:26"
+    },
+    {
+      "name": "module:ol/loadingstrategy.tile",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/loadingstrategy.js:37"
+    },
+    {
+      "name": "module:ol/math.clamp",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/math.js:14"
+    },
+    {
+      "name": "module:ol/math.cosh",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/math.js:28"
+    },
+    {
+      "name": "module:ol/math.roundUpToPowerOfTwo",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/math.js:50"
+    },
+    {
+      "name": "module:ol/math.squaredSegmentDistance",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/math.js:67"
+    },
+    {
+      "name": "module:ol/math.squaredDistance",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/math.js:92"
+    },
+    {
+      "name": "module:ol/math.solveLinearSystem",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/math.js:106"
+    },
+    {
+      "name": "module:ol/math.toDegrees",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/math.js:161"
+    },
+    {
+      "name": "module:ol/math.toRadians",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/math.js:172"
+    },
+    {
+      "name": "module:ol/math.modulo",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/math.js:183"
+    },
+    {
+      "name": "module:ol/math.lerp",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/math.js:196"
+    },
+    {
+      "name": "module:ol/net.jsonp",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/net.js:18"
+    },
+    {
+      "name": "module:ol/obj.assign",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/obj.js:15"
+    },
+    {
+      "name": "module:ol/obj.clear",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/obj.js:41"
+    },
+    {
+      "name": "module:ol/obj.getValues",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/obj.js:54"
+    },
+    {
+      "name": "module:ol/obj.isEmpty",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/obj.js:68"
+    },
+    {
+      "name": "module:ol/pointer/EventSource~EventSource",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/pointer/EventSource.js:37"
+    },
+    {
+      "name": "module:ol/pointer/EventType~EventType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/pointer/EventType.js:9"
+    },
+    {
+      "name": "module:ol/pointer/MouseSource.POINTER_ID",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/pointer/MouseSource.js:41"
+    },
+    {
+      "name": "module:ol/pointer/MouseSource.POINTER_TYPE",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/pointer/MouseSource.js:47"
+    },
+    {
+      "name": "module:ol/pointer/MouseSource~MouseSource",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/pointer/MouseSource.js:249"
+    },
+    {
+      "name": "module:ol/pointer/MsSource~MsSource",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/pointer/MsSource.js:194"
+    },
+    {
+      "name": "module:ol/pointer/NativeSource~NativeSource",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/pointer/NativeSource.js:139"
+    },
+    {
+      "name": "module:ol/pointer/PointerEvent~PointerEvent",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/pointer/PointerEvent.js:270"
+    },
+    {
+      "name": "module:ol/pointer/PointerEventHandler~PointerEventHandler",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/pointer/PointerEventHandler.js:424"
+    },
+    {
+      "name": "module:ol/pointer/TouchSource~TouchSource",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/pointer/TouchSource.js:429"
+    },
+    {
+      "name": "module:ol/proj/Projection~Projection",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/Projection.js:268"
+    },
+    {
+      "name": "module:ol/proj/Units.METERS_PER_UNIT",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/Units.js:26"
+    },
+    {
+      "name": "module:ol/proj/Units~Units",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/Units.js:33"
+    },
+    {
+      "name": "module:ol/proj/epsg3857.RADIUS",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/epsg3857.js:15"
+    },
+    {
+      "name": "module:ol/proj/epsg3857.HALF_SIZE",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/epsg3857.js:22"
+    },
+    {
+      "name": "module:ol/proj/epsg3857.EXTENT",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/epsg3857.js:29"
+    },
+    {
+      "name": "module:ol/proj/epsg3857.WORLD_EXTENT",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/epsg3857.js:39"
+    },
+    {
+      "name": "module:ol/proj/epsg3857.PROJECTIONS",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/epsg3857.js:75"
+    },
+    {
+      "name": "module:ol/proj/epsg3857.fromEPSG4326",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/epsg3857.js:94"
+    },
+    {
+      "name": "module:ol/proj/epsg3857.toEPSG4326",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/epsg3857.js:130"
+    },
+    {
+      "name": "module:ol/proj/epsg4326.RADIUS",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/epsg4326.js:14"
+    },
+    {
+      "name": "module:ol/proj/epsg4326.EXTENT",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/epsg4326.js:23"
+    },
+    {
+      "name": "module:ol/proj/epsg4326.METERS_PER_UNIT",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/epsg4326.js:30"
+    },
+    {
+      "name": "module:ol/proj/epsg4326.PROJECTIONS",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/epsg4326.js:69"
+    },
+    {
+      "name": "module:ol/proj/proj4.register",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/proj4.js:19"
+    },
+    {
+      "name": "module:ol/proj/projections.clear",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/projections.js:15"
+    },
+    {
+      "name": "module:ol/proj/projections.get",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/projections.js:25"
+    },
+    {
+      "name": "module:ol/proj/projections.add",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/projections.js:35"
+    },
+    {
+      "name": "module:ol/proj/transforms.clear",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/transforms.js:17"
+    },
+    {
+      "name": "module:ol/proj/transforms.add",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/transforms.js:30"
+    },
+    {
+      "name": "module:ol/proj/transforms.remove",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/transforms.js:49"
+    },
+    {
+      "name": "module:ol/proj/transforms.get",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj/transforms.js:67"
+    },
+    {
+      "name": "module:ol/proj.METERS_PER_UNIT",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:86"
+    },
+    {
+      "name": "module:ol/proj.Projection",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:88"
+    },
+    {
+      "name": "module:ol/proj.cloneTransform",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:97"
+    },
+    {
+      "name": "module:ol/proj.identityTransform",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:117"
+    },
+    {
+      "name": "module:ol/proj.addProjection",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:135"
+    },
+    {
+      "name": "module:ol/proj.addProjections",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:144"
+    },
+    {
+      "name": "module:ol/proj.get",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:158"
+    },
+    {
+      "name": "module:ol/proj.getPointResolution",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:190"
+    },
+    {
+      "name": "module:ol/proj.addEquivalentProjections",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:234"
+    },
+    {
+      "name": "module:ol/proj.addEquivalentTransforms",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:259"
+    },
+    {
+      "name": "module:ol/proj.clearAllProjections",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:272"
+    },
+    {
+      "name": "module:ol/proj.createProjection",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:283"
+    },
+    {
+      "name": "module:ol/proj.createTransformFromCoordinateTransform",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:303"
+    },
+    {
+      "name": "module:ol/proj.addCoordinateTransforms",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:347"
+    },
+    {
+      "name": "module:ol/proj.fromLonLat",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:364"
+    },
+    {
+      "name": "module:ol/proj.toLonLat",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:379"
+    },
+    {
+      "name": "module:ol/proj.equivalent",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:400"
+    },
+    {
+      "name": "module:ol/proj.getTransformFromProjections",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:423"
+    },
+    {
+      "name": "module:ol/proj.getTransform",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:444"
+    },
+    {
+      "name": "module:ol/proj.transform",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:465"
+    },
+    {
+      "name": "module:ol/proj.transformExtent",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:481"
+    },
+    {
+      "name": "module:ol/proj.transformWithProjections",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:495"
+    },
+    {
+      "name": "module:ol/proj.addCommon",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/proj.js:505"
+    },
+    {
+      "name": "module:ol/render/Box~Box",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/Box.js:130"
+    },
+    {
+      "name": "module:ol/render/Event~Event",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/Event.js:51"
+    },
+    {
+      "name": "module:ol/render/EventType~EventType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/EventType.js:8"
+    },
+    {
+      "name": "module:ol/render/Feature~Feature",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/Feature.js:272"
+    },
+    {
+      "name": "module:ol/render/ReplayGroup~ReplayGroup",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/ReplayGroup.js:17"
+    },
+    {
+      "name": "module:ol/render/ReplayType~ReplayType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/ReplayType.js:8"
+    },
+    {
+      "name": "module:ol/render/VectorContext~VectorContext",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/VectorContext.js:107"
+    },
+    {
+      "name": "module:ol/render/canvas/ImageReplay~ImageReplay",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/ImageReplay.js:214"
+    },
+    {
+      "name": "module:ol/render/canvas/Immediate~Immediate",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/Immediate.js:944"
+    },
+    {
+      "name": "module:ol/render/canvas/Instruction.fillInstruction",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/Instruction.js:28"
+    },
+    {
+      "name": "module:ol/render/canvas/Instruction.strokeInstruction",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/Instruction.js:34"
+    },
+    {
+      "name": "module:ol/render/canvas/Instruction.beginPathInstruction",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/Instruction.js:40"
+    },
+    {
+      "name": "module:ol/render/canvas/Instruction.closePathInstruction",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/Instruction.js:46"
+    },
+    {
+      "name": "module:ol/render/canvas/Instruction~Instruction",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/Instruction.js:49"
+    },
+    {
+      "name": "module:ol/render/canvas/LineStringReplay~LineStringReplay",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/LineStringReplay.js:117"
+    },
+    {
+      "name": "module:ol/render/canvas/PolygonReplay~PolygonReplay",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/PolygonReplay.js:216"
+    },
+    {
+      "name": "module:ol/render/canvas/Replay~Replay",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/Replay.js:1100"
+    },
+    {
+      "name": "module:ol/render/canvas/ReplayGroup.getCircleArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/ReplayGroup.js:454"
+    },
+    {
+      "name": "module:ol/render/canvas/ReplayGroup.replayDeclutter",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/ReplayGroup.js:498"
+    },
+    {
+      "name": "module:ol/render/canvas/ReplayGroup~ReplayGroup",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/ReplayGroup.js:512"
+    },
+    {
+      "name": "module:ol/render/canvas/TextReplay.measureTextWidths",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/TextReplay.js:528"
+    },
+    {
+      "name": "module:ol/render/canvas/TextReplay~TextReplay",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas/TextReplay.js:540"
+    },
+    {
+      "name": "module:ol/render/canvas.defaultFont",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:76"
+    },
+    {
+      "name": "module:ol/render/canvas.defaultFillStyle",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:83"
+    },
+    {
+      "name": "module:ol/render/canvas.defaultLineCap",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:90"
+    },
+    {
+      "name": "module:ol/render/canvas.defaultLineDash",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:97"
+    },
+    {
+      "name": "module:ol/render/canvas.defaultLineDashOffset",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:104"
+    },
+    {
+      "name": "module:ol/render/canvas.defaultLineJoin",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:111"
+    },
+    {
+      "name": "module:ol/render/canvas.defaultMiterLimit",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:118"
+    },
+    {
+      "name": "module:ol/render/canvas.defaultStrokeStyle",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:125"
+    },
+    {
+      "name": "module:ol/render/canvas.defaultTextAlign",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:132"
+    },
+    {
+      "name": "module:ol/render/canvas.defaultTextBaseline",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:139"
+    },
+    {
+      "name": "module:ol/render/canvas.defaultPadding",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:146"
+    },
+    {
+      "name": "module:ol/render/canvas.defaultLineWidth",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:153"
+    },
+    {
+      "name": "module:ol/render/canvas.labelCache",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:162"
+    },
+    {
+      "name": "module:ol/render/canvas.checkedFonts",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:168"
+    },
+    {
+      "name": "module:ol/render/canvas.textHeights",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:180"
+    },
+    {
+      "name": "module:ol/render/canvas.checkFont",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:187"
+    },
+    {
+      "name": "module:ol/render/canvas.measureTextHeight",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:283"
+    },
+    {
+      "name": "module:ol/render/canvas.measureTextWidth",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:311"
+    },
+    {
+      "name": "module:ol/render/canvas.rotateAtOffset",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:326"
+    },
+    {
+      "name": "module:ol/render/canvas.resetTransform",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:335"
+    },
+    {
+      "name": "module:ol/render/canvas.drawImage",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/canvas.js:351"
+    },
+    {
+      "name": "module:ol/render/replay.ORDER",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/replay.js:11"
+    },
+    {
+      "name": "module:ol/render/replay.TEXT_ALIGN",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/replay.js:24"
+    },
+    {
+      "name": "module:ol/render/webgl/CircleReplay~CircleReplay",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/CircleReplay.js:415"
+    },
+    {
+      "name": "module:ol/render/webgl/ImageReplay~ImageReplay",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/ImageReplay.js:166"
+    },
+    {
+      "name": "module:ol/render/webgl/Immediate~Immediate",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/Immediate.js:385"
+    },
+    {
+      "name": "module:ol/render/webgl/LineStringReplay~LineStringReplay",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/LineStringReplay.js:681"
+    },
+    {
+      "name": "module:ol/render/webgl/PolygonReplay~PolygonReplay",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/PolygonReplay.js:1078"
+    },
+    {
+      "name": "module:ol/render/webgl/Replay~Replay",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/Replay.js:359"
+    },
+    {
+      "name": "module:ol/render/webgl/ReplayGroup~ReplayGroup",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/ReplayGroup.js:354"
+    },
+    {
+      "name": "module:ol/render/webgl/TextReplay~TextReplay",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/TextReplay.js:464"
+    },
+    {
+      "name": "module:ol/render/webgl/TextureReplay~TextureReplay",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/TextureReplay.js:488"
+    },
+    {
+      "name": "module:ol/render/webgl/circlereplay/defaultshader/Locations~Locations",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/circlereplay/defaultshader/Locations.js:85"
+    },
+    {
+      "name": "module:ol/render/webgl/circlereplay/defaultshader.fragment",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/circlereplay/defaultshader.js:11"
+    },
+    {
+      "name": "module:ol/render/webgl/circlereplay/defaultshader.vertex",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/circlereplay/defaultshader.js:15"
+    },
+    {
+      "name": "module:ol/render/webgl/linestringreplay/defaultshader/Locations~Locations",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/linestringreplay/defaultshader/Locations.js:91"
+    },
+    {
+      "name": "module:ol/render/webgl/linestringreplay/defaultshader.fragment",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/linestringreplay/defaultshader.js:11"
+    },
+    {
+      "name": "module:ol/render/webgl/linestringreplay/defaultshader.vertex",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/linestringreplay/defaultshader.js:15"
+    },
+    {
+      "name": "module:ol/render/webgl/polygonreplay/defaultshader/Locations~Locations",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/polygonreplay/defaultshader/Locations.js:49"
+    },
+    {
+      "name": "module:ol/render/webgl/polygonreplay/defaultshader.fragment",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/polygonreplay/defaultshader.js:11"
+    },
+    {
+      "name": "module:ol/render/webgl/polygonreplay/defaultshader.vertex",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/polygonreplay/defaultshader.js:15"
+    },
+    {
+      "name": "module:ol/render/webgl/texturereplay/defaultshader/Locations~Locations",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/texturereplay/defaultshader/Locations.js:73"
+    },
+    {
+      "name": "module:ol/render/webgl/texturereplay/defaultshader.fragment",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/texturereplay/defaultshader.js:11"
+    },
+    {
+      "name": "module:ol/render/webgl/texturereplay/defaultshader.vertex",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl/texturereplay/defaultshader.js:15"
+    },
+    {
+      "name": "module:ol/render/webgl.DEFAULT_FONT",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl.js:10"
+    },
+    {
+      "name": "module:ol/render/webgl.DEFAULT_FILLSTYLE",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl.js:17"
+    },
+    {
+      "name": "module:ol/render/webgl.DEFAULT_LINECAP",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl.js:24"
+    },
+    {
+      "name": "module:ol/render/webgl.DEFAULT_LINEDASH",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl.js:31"
+    },
+    {
+      "name": "module:ol/render/webgl.DEFAULT_LINEDASHOFFSET",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl.js:38"
+    },
+    {
+      "name": "module:ol/render/webgl.DEFAULT_LINEJOIN",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl.js:45"
+    },
+    {
+      "name": "module:ol/render/webgl.DEFAULT_MITERLIMIT",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl.js:52"
+    },
+    {
+      "name": "module:ol/render/webgl.DEFAULT_STROKESTYLE",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl.js:58"
+    },
+    {
+      "name": "module:ol/render/webgl.DEFAULT_TEXTALIGN",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl.js:65"
+    },
+    {
+      "name": "module:ol/render/webgl.DEFAULT_TEXTBASELINE",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl.js:72"
+    },
+    {
+      "name": "module:ol/render/webgl.DEFAULT_LINEWIDTH",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl.js:79"
+    },
+    {
+      "name": "module:ol/render/webgl.EPSILON",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl.js:85"
+    },
+    {
+      "name": "module:ol/render/webgl.triangleIsCounterClockwise",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render/webgl.js:97"
+    },
+    {
+      "name": "module:ol/render.toContext",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/render.js:66"
+    },
+    {
+      "name": "module:ol/renderer/Layer~Layer",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/Layer.js:244"
+    },
+    {
+      "name": "module:ol/renderer/Map.sortByZIndex",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/Map.js:359"
+    },
+    {
+      "name": "module:ol/renderer/Map~Map",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/Map.js:362"
+    },
+    {
+      "name": "module:ol/renderer/canvas/ImageLayer~ImageLayer",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/canvas/ImageLayer.js:220"
+    },
+    {
+      "name": "module:ol/renderer/canvas/IntermediateCanvas~IntermediateCanvas",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/canvas/IntermediateCanvas.js:146"
+    },
+    {
+      "name": "module:ol/renderer/canvas/Layer~Layer",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/canvas/Layer.js:183"
+    },
+    {
+      "name": "module:ol/renderer/canvas/Map.layerRendererConstructors",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/canvas/Map.js:20"
+    },
+    {
+      "name": "module:ol/renderer/canvas/Map~Map",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/canvas/Map.js:228"
+    },
+    {
+      "name": "module:ol/renderer/canvas/TileLayer~TileLayer",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/canvas/TileLayer.js:390"
+    },
+    {
+      "name": "module:ol/renderer/canvas/VectorLayer~VectorLayer",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/canvas/VectorLayer.js:443"
+    },
+    {
+      "name": "module:ol/renderer/canvas/VectorTileLayer~VectorTileLayer",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/canvas/VectorTileLayer.js:512"
+    },
+    {
+      "name": "module:ol/renderer/vector.defaultOrder",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/vector.js:40"
+    },
+    {
+      "name": "module:ol/renderer/vector.getSquaredTolerance",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/vector.js:50"
+    },
+    {
+      "name": "module:ol/renderer/vector.getTolerance",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/vector.js:61"
+    },
+    {
+      "name": "module:ol/renderer/vector.renderFeature",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/vector.js:99"
+    },
+    {
+      "name": "module:ol/renderer/webgl/ImageLayer~ImageLayer",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/webgl/ImageLayer.js:341"
+    },
+    {
+      "name": "module:ol/renderer/webgl/Layer~Layer",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/webgl/Layer.js:256"
+    },
+    {
+      "name": "module:ol/renderer/webgl/Map~Map",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/webgl/Map.js:593"
+    },
+    {
+      "name": "module:ol/renderer/webgl/TileLayer~TileLayer",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/webgl/TileLayer.js:415"
+    },
+    {
+      "name": "module:ol/renderer/webgl/VectorLayer~VectorLayer",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/webgl/VectorLayer.js:334"
+    },
+    {
+      "name": "module:ol/renderer/webgl/defaultmapshader/Locations~Locations",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/webgl/defaultmapshader/Locations.js:49"
+    },
+    {
+      "name": "module:ol/renderer/webgl/defaultmapshader.fragment",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/webgl/defaultmapshader.js:11"
+    },
+    {
+      "name": "module:ol/renderer/webgl/defaultmapshader.vertex",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/webgl/defaultmapshader.js:15"
+    },
+    {
+      "name": "module:ol/renderer/webgl/tilelayershader/Locations~Locations",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/webgl/tilelayershader/Locations.js:37"
+    },
+    {
+      "name": "module:ol/renderer/webgl/tilelayershader.fragment",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/webgl/tilelayershader.js:11"
+    },
+    {
+      "name": "module:ol/renderer/webgl/tilelayershader.vertex",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/renderer/webgl/tilelayershader.js:15"
+    },
+    {
+      "name": "module:ol/reproj/Image~Image",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/reproj/Image.js:193"
+    },
+    {
+      "name": "module:ol/reproj/Tile~Tile",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/reproj/Tile.js:312"
+    },
+    {
+      "name": "module:ol/reproj/Triangulation~Triangulation",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/reproj/Triangulation.js:343"
+    },
+    {
+      "name": "ERROR_THRESHOLD",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/reproj/common.js:6"
+    },
+    {
+      "name": "ENABLE_RASTER_REPROJECTION",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/reproj/common.js:13"
+    },
+    {
+      "name": "module:ol/reproj.calculateSourceResolution",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/reproj.js:22"
+    },
+    {
+      "name": "module:ol/reproj.render",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/reproj.js:93"
+    },
+    {
+      "name": "module:ol/resolutionconstraint.createSnapToResolutions",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/resolutionconstraint.js:17"
+    },
+    {
+      "name": "module:ol/resolutionconstraint.createSnapToPower",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/resolutionconstraint.js:50"
+    },
+    {
+      "name": "module:ol/rotationconstraint.disable",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/rotationconstraint.js:17"
+    },
+    {
+      "name": "module:ol/rotationconstraint.none",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/rotationconstraint.js:31"
+    },
+    {
+      "name": "module:ol/rotationconstraint.createSnapToN",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/rotationconstraint.js:44"
+    },
+    {
+      "name": "module:ol/rotationconstraint.createSnapToZero",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/rotationconstraint.js:67"
+    },
+    {
+      "name": "module:ol/size.buffer",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/size.js:20"
+    },
+    {
+      "name": "module:ol/size.hasArea",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/size.js:35"
+    },
+    {
+      "name": "module:ol/size.scale",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/size.js:47"
+    },
+    {
+      "name": "module:ol/size.toSize",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/size.js:66"
+    },
+    {
+      "name": "module:ol/source/BingMaps~BingMaps",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/BingMaps.js:232"
+    },
+    {
+      "name": "module:ol/source/CartoDB~CartoDB",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/CartoDB.js:188"
+    },
+    {
+      "name": "module:ol/source/Cluster~Cluster",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/Cluster.js:222"
+    },
+    {
+      "name": "module:ol/source/Image.defaultImageLoadFunction",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/Image.js:238"
+    },
+    {
+      "name": "module:ol/source/Image~Image",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/Image.js:243"
+    },
+    {
+      "name": "module:ol/source/ImageArcGISRest~ImageArcGISRest",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/ImageArcGISRest.js:296"
+    },
+    {
+      "name": "module:ol/source/ImageCanvas~ImageCanvas",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/ImageCanvas.js:127"
+    },
+    {
+      "name": "module:ol/source/ImageMapGuide~ImageMapGuide",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/ImageMapGuide.js:262"
+    },
+    {
+      "name": "module:ol/source/ImageStatic~ImageStatic",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/ImageStatic.js:143"
+    },
+    {
+      "name": "module:ol/source/ImageWMS~ImageWMS",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/ImageWMS.js:392"
+    },
+    {
+      "name": "module:ol/source/OSM.ATTRIBUTION",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/OSM.js:15"
+    },
+    {
+      "name": "module:ol/source/OSM~OSM",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/OSM.js:88"
+    },
+    {
+      "name": "module:ol/source/Raster~Raster",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/Raster.js:535"
+    },
+    {
+      "name": "module:ol/source/Source~Source",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/Source.js:201"
+    },
+    {
+      "name": "module:ol/source/Stamen~Stamen",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/Stamen.js:151"
+    },
+    {
+      "name": "module:ol/source/State~State",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/State.js:9"
+    },
+    {
+      "name": "module:ol/source/Tile.TileSourceEvent",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/Tile.js:315"
+    },
+    {
+      "name": "module:ol/source/Tile~Tile",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/Tile.js:336"
+    },
+    {
+      "name": "module:ol/source/TileArcGISRest~TileArcGISRest",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/TileArcGISRest.js:224"
+    },
+    {
+      "name": "module:ol/source/TileDebug~TileDebug",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/TileDebug.js:132"
+    },
+    {
+      "name": "module:ol/source/TileEventType~TileEventType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/TileEventType.js:8"
+    },
+    {
+      "name": "module:ol/source/TileImage~TileImage",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/TileImage.js:409"
+    },
+    {
+      "name": "module:ol/source/TileJSON~TileJSON",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/TileJSON.js:188"
+    },
+    {
+      "name": "module:ol/source/TileWMS~TileWMS",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/TileWMS.js:396"
+    },
+    {
+      "name": "module:ol/source/UTFGrid.CustomTile",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/UTFGrid.js:20"
+    },
+    {
+      "name": "module:ol/source/UTFGrid~UTFGrid",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/UTFGrid.js:500"
+    },
+    {
+      "name": "module:ol/source/UrlTile~UrlTile",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/UrlTile.js:217"
+    },
+    {
+      "name": "module:ol/source/Vector.VectorSourceEvent",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/Vector.js:39"
+    },
+    {
+      "name": "module:ol/source/Vector~Vector",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/Vector.js:1000"
+    },
+    {
+      "name": "module:ol/source/VectorEventType~VectorEventType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/VectorEventType.js:8"
+    },
+    {
+      "name": "module:ol/source/VectorTile~VectorTile",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/VectorTile.js:222"
+    },
+    {
+      "name": "module:ol/source/WMSServerType~WMSServerType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/WMSServerType.js:11"
+    },
+    {
+      "name": "module:ol/source/WMTS~WMTS",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/WMTS.js:269"
+    },
+    {
+      "name": "module:ol/source/WMTS.optionsFromCapabilities",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/WMTS.js:295"
+    },
+    {
+      "name": "module:ol/source/WMTSRequestEncoding~WMTSRequestEncoding",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/WMTSRequestEncoding.js:9"
+    },
+    {
+      "name": "module:ol/source/XYZ~XYZ",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/XYZ.js:105"
+    },
+    {
+      "name": "module:ol/source/Zoomify.CustomTile",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/Zoomify.js:26"
+    },
+    {
+      "name": "module:ol/source/Zoomify~Zoomify",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/Zoomify.js:254"
+    },
+    {
+      "name": "DEFAULT_WMS_VERSION",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source/common.js:5"
+    },
+    {
+      "name": "module:ol/source.BingMaps",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:5"
+    },
+    {
+      "name": "module:ol/source.CartoDB",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:6"
+    },
+    {
+      "name": "module:ol/source.Cluster",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:7"
+    },
+    {
+      "name": "module:ol/source.Image",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:8"
+    },
+    {
+      "name": "module:ol/source.ImageArcGISRest",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:9"
+    },
+    {
+      "name": "module:ol/source.ImageCanvas",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:10"
+    },
+    {
+      "name": "module:ol/source.ImageMapGuide",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:11"
+    },
+    {
+      "name": "module:ol/source.ImageStatic",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:12"
+    },
+    {
+      "name": "module:ol/source.ImageWMS",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:13"
+    },
+    {
+      "name": "module:ol/source.OSM",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:14"
+    },
+    {
+      "name": "module:ol/source.Raster",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:15"
+    },
+    {
+      "name": "module:ol/source.Source",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:16"
+    },
+    {
+      "name": "module:ol/source.Stamen",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:17"
+    },
+    {
+      "name": "module:ol/source.Tile",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:18"
+    },
+    {
+      "name": "module:ol/source.TileArcGISRest",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:19"
+    },
+    {
+      "name": "module:ol/source.TileDebug",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:20"
+    },
+    {
+      "name": "module:ol/source.TileImage",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:21"
+    },
+    {
+      "name": "module:ol/source.TileJSON",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:22"
+    },
+    {
+      "name": "module:ol/source.TileWMS",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:23"
+    },
+    {
+      "name": "module:ol/source.UrlTile",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:24"
+    },
+    {
+      "name": "module:ol/source.UTFGrid",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:25"
+    },
+    {
+      "name": "module:ol/source.Vector",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:26"
+    },
+    {
+      "name": "module:ol/source.WMTS",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:27"
+    },
+    {
+      "name": "module:ol/source.XYZ",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:28"
+    },
+    {
+      "name": "module:ol/source.Zoomify",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/source.js:29"
+    },
+    {
+      "name": "module:ol/sphere.DEFAULT_RADIUS",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/sphere.js:32"
+    },
+    {
+      "name": "module:ol/sphere.getDistance",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/sphere.js:44"
+    },
+    {
+      "name": "module:ol/sphere.getLength",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/sphere.js:84"
+    },
+    {
+      "name": "module:ol/sphere.getArea",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/sphere.js:180"
+    },
+    {
+      "name": "module:ol/sphere.offset",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/sphere.js:243"
+    },
+    {
+      "name": "module:ol/string.padNumber",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/string.js:11"
+    },
+    {
+      "name": "module:ol/string.compareVersions",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/string.js:25"
+    },
+    {
+      "name": "module:ol/structs/LRUCache~LRUCache",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/structs/LRUCache.js:307"
+    },
+    {
+      "name": "module:ol/structs/LinkedList~LinkedList",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/structs/LinkedList.js:258"
+    },
+    {
+      "name": "module:ol/structs/PriorityQueue.DROP",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/structs/PriorityQueue.js:11"
+    },
+    {
+      "name": "module:ol/structs/PriorityQueue~PriorityQueue",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/structs/PriorityQueue.js:282"
+    },
+    {
+      "name": "module:ol/structs/RBush~RBush",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/structs/RBush.js:241"
+    },
+    {
+      "name": "module:ol/style/Atlas~Atlas",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/Atlas.js:197"
+    },
+    {
+      "name": "module:ol/style/AtlasManager~AtlasManager",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/AtlasManager.js:249"
+    },
+    {
+      "name": "module:ol/style/Circle~Circle",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/Circle.js:76"
+    },
+    {
+      "name": "module:ol/style/Fill~Fill",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/Fill.js:88"
+    },
+    {
+      "name": "module:ol/style/Icon~Icon",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/Icon.js:411"
+    },
+    {
+      "name": "module:ol/style/IconAnchorUnits~IconAnchorUnits",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/IconAnchorUnits.js:9"
+    },
+    {
+      "name": "module:ol/style/IconImage.get",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/IconImage.js:250"
+    },
+    {
+      "name": "module:ol/style/IconImage~IconImage",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/IconImage.js:260"
+    },
+    {
+      "name": "module:ol/style/IconImageCache~IconImageCache",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/IconImageCache.js:105"
+    },
+    {
+      "name": "module:ol/style/IconImageCache.shared",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/IconImageCache.js:113"
+    },
+    {
+      "name": "module:ol/style/IconOrigin~IconOrigin",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/IconOrigin.js:9"
+    },
+    {
+      "name": "module:ol/style/Image~Image",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/Image.js:221"
+    },
+    {
+      "name": "module:ol/style/RegularShape~RegularShape",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/RegularShape.js:590"
+    },
+    {
+      "name": "module:ol/style/Stroke~Stroke",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/Stroke.js:281"
+    },
+    {
+      "name": "module:ol/style/Style.toFunction",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/Style.js:396"
+    },
+    {
+      "name": "module:ol/style/Style.createDefaultStyle",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/Style.js:432"
+    },
+    {
+      "name": "module:ol/style/Style.createEditingStyle",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/Style.js:466"
+    },
+    {
+      "name": "module:ol/style/Style~Style",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/Style.js:542"
+    },
+    {
+      "name": "module:ol/style/Text~Text",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/Text.js:500"
+    },
+    {
+      "name": "module:ol/style/TextPlacement~TextPlacement",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style/TextPlacement.js:12"
+    },
+    {
+      "name": "module:ol/style.Atlas",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style.js:6"
+    },
+    {
+      "name": "module:ol/style.AtlasManager",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style.js:7"
+    },
+    {
+      "name": "module:ol/style.Circle",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style.js:8"
+    },
+    {
+      "name": "module:ol/style.Fill",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style.js:9"
+    },
+    {
+      "name": "module:ol/style.Icon",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style.js:10"
+    },
+    {
+      "name": "module:ol/style.IconImage",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style.js:11"
+    },
+    {
+      "name": "module:ol/style.Image",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style.js:12"
+    },
+    {
+      "name": "module:ol/style.RegularShape",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style.js:13"
+    },
+    {
+      "name": "module:ol/style.Stroke",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style.js:14"
+    },
+    {
+      "name": "module:ol/style.Style",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style.js:15"
+    },
+    {
+      "name": "module:ol/style.Text",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/style.js:16"
+    },
+    {
+      "name": "module:ol/tilecoord.createOrUpdate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilecoord.js:21"
+    },
+    {
+      "name": "module:ol/tilecoord.getKeyZXY",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilecoord.js:39"
+    },
+    {
+      "name": "module:ol/tilecoord.getKey",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilecoord.js:49"
+    },
+    {
+      "name": "module:ol/tilecoord.fromKey",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilecoord.js:59"
+    },
+    {
+      "name": "module:ol/tilecoord.hash",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilecoord.js:68"
+    },
+    {
+      "name": "module:ol/tilecoord.quadKey",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilecoord.js:77"
+    },
+    {
+      "name": "module:ol/tilecoord.withinExtentAndZ",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilecoord.js:103"
+    },
+    {
+      "name": "module:ol/tilegrid/TileGrid~TileGrid",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilegrid/TileGrid.js:554"
+    },
+    {
+      "name": "module:ol/tilegrid/WMTS~WMTS",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilegrid/WMTS.js:97"
+    },
+    {
+      "name": "module:ol/tilegrid/WMTS.createFromCapabilitiesMatrixSet",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilegrid/WMTS.js:111"
+    },
+    {
+      "name": "module:ol/tilegrid/common.DEFAULT_MAX_ZOOM",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilegrid/common.js:9"
+    },
+    {
+      "name": "module:ol/tilegrid/common.DEFAULT_TILE_SIZE",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilegrid/common.js:15"
+    },
+    {
+      "name": "module:ol/tilegrid.getForProjection",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilegrid.js:19"
+    },
+    {
+      "name": "module:ol/tilegrid.wrapX",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilegrid.js:35"
+    },
+    {
+      "name": "module:ol/tilegrid.createForExtent",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilegrid.js:59"
+    },
+    {
+      "name": "module:ol/tilegrid.createXYZ",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilegrid.js:91"
+    },
+    {
+      "name": "module:ol/tilegrid.createForProjection",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilegrid.js:145"
+    },
+    {
+      "name": "module:ol/tilegrid.extentFromProjection",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tilegrid.js:157"
+    },
+    {
+      "name": "module:ol/tileurlfunction.createFromTemplate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tileurlfunction.js:14"
+    },
+    {
+      "name": "module:ol/tileurlfunction.createFromTemplates",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tileurlfunction.js:54"
+    },
+    {
+      "name": "module:ol/tileurlfunction.createFromTileUrlFunctions",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tileurlfunction.js:68"
+    },
+    {
+      "name": "module:ol/tileurlfunction.nullTileUrlFunction",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tileurlfunction.js:98"
+    },
+    {
+      "name": "module:ol/tileurlfunction.expandUrl",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/tileurlfunction.js:107"
+    },
+    {
+      "name": "module:ol/transform.create",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/transform.js:38"
+    },
+    {
+      "name": "module:ol/transform.reset",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/transform.js:48"
+    },
+    {
+      "name": "module:ol/transform.multiply",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/transform.js:60"
+    },
+    {
+      "name": "module:ol/transform.set",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/transform.js:95"
+    },
+    {
+      "name": "module:ol/transform.setFromArray",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/transform.js:112"
+    },
+    {
+      "name": "module:ol/transform.apply",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/transform.js:132"
+    },
+    {
+      "name": "module:ol/transform.rotate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/transform.js:147"
+    },
+    {
+      "name": "module:ol/transform.scale",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/transform.js:161"
+    },
+    {
+      "name": "module:ol/transform.translate",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/transform.js:173"
+    },
+    {
+      "name": "module:ol/transform.compose",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/transform.js:191"
+    },
+    {
+      "name": "module:ol/transform.invert",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/transform.js:209"
+    },
+    {
+      "name": "module:ol/transform.determinant",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/transform.js:236"
+    },
+    {
+      "name": "module:ol/uri.appendParams",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/uri.js:14"
+    },
+    {
+      "name": "module:ol/util.inherits",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/util.js:28"
+    },
+    {
+      "name": "module:ol/util.getUid",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/util.js:49"
+    },
+    {
+      "name": "module:ol/util.VERSION",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/util.js:57"
+    },
+    {
+      "name": "module:ol/vec/mat4.create",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/vec/mat4.js:9"
+    },
+    {
+      "name": "module:ol/vec/mat4.fromTransform",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/vec/mat4.js:19"
+    },
+    {
+      "name": "module:ol/webgl/Buffer~Buffer",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl/Buffer.js:46"
+    },
+    {
+      "name": "module:ol/webgl/Context.createEmptyTexture",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl/Context.js:344"
+    },
+    {
+      "name": "module:ol/webgl/Context.createTexture",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl/Context.js:358"
+    },
+    {
+      "name": "module:ol/webgl/Context~Context",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl/Context.js:364"
+    },
+    {
+      "name": "module:ol/webgl/ContextEventType~ContextEventType",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl/ContextEventType.js:8"
+    },
+    {
+      "name": "module:ol/webgl/Fragment~Fragment",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl/Fragment.js:28"
+    },
+    {
+      "name": "module:ol/webgl/Shader~Shader",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl/Shader.js:37"
+    },
+    {
+      "name": "module:ol/webgl/Vertex~Vertex",
+      "kind": "class",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl/Vertex.js:28"
+    },
+    {
+      "name": "module:ol/webgl.ONE",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:15"
+    },
+    {
+      "name": "module:ol/webgl.SRC_ALPHA",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:22"
+    },
+    {
+      "name": "module:ol/webgl.COLOR_ATTACHMENT0",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:29"
+    },
+    {
+      "name": "module:ol/webgl.COLOR_BUFFER_BIT",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:36"
+    },
+    {
+      "name": "module:ol/webgl.TRIANGLES",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:43"
+    },
+    {
+      "name": "module:ol/webgl.TRIANGLE_STRIP",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:50"
+    },
+    {
+      "name": "module:ol/webgl.ONE_MINUS_SRC_ALPHA",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:57"
+    },
+    {
+      "name": "module:ol/webgl.ARRAY_BUFFER",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:64"
+    },
+    {
+      "name": "module:ol/webgl.ELEMENT_ARRAY_BUFFER",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:71"
+    },
+    {
+      "name": "module:ol/webgl.STREAM_DRAW",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:78"
+    },
+    {
+      "name": "module:ol/webgl.STATIC_DRAW",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:85"
+    },
+    {
+      "name": "module:ol/webgl.DYNAMIC_DRAW",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:92"
+    },
+    {
+      "name": "module:ol/webgl.CULL_FACE",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:99"
+    },
+    {
+      "name": "module:ol/webgl.BLEND",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:106"
+    },
+    {
+      "name": "module:ol/webgl.STENCIL_TEST",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:113"
+    },
+    {
+      "name": "module:ol/webgl.DEPTH_TEST",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:120"
+    },
+    {
+      "name": "module:ol/webgl.SCISSOR_TEST",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:127"
+    },
+    {
+      "name": "module:ol/webgl.UNSIGNED_BYTE",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:134"
+    },
+    {
+      "name": "module:ol/webgl.UNSIGNED_SHORT",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:141"
+    },
+    {
+      "name": "module:ol/webgl.UNSIGNED_INT",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:148"
+    },
+    {
+      "name": "module:ol/webgl.FLOAT",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:155"
+    },
+    {
+      "name": "module:ol/webgl.RGBA",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:162"
+    },
+    {
+      "name": "module:ol/webgl.FRAGMENT_SHADER",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:169"
+    },
+    {
+      "name": "module:ol/webgl.VERTEX_SHADER",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:176"
+    },
+    {
+      "name": "module:ol/webgl.LINK_STATUS",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:183"
+    },
+    {
+      "name": "module:ol/webgl.LINEAR",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:190"
+    },
+    {
+      "name": "module:ol/webgl.TEXTURE_MAG_FILTER",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:197"
+    },
+    {
+      "name": "module:ol/webgl.TEXTURE_MIN_FILTER",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:204"
+    },
+    {
+      "name": "module:ol/webgl.TEXTURE_WRAP_S",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:211"
+    },
+    {
+      "name": "module:ol/webgl.TEXTURE_WRAP_T",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:218"
+    },
+    {
+      "name": "module:ol/webgl.TEXTURE_2D",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:225"
+    },
+    {
+      "name": "module:ol/webgl.TEXTURE0",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:232"
+    },
+    {
+      "name": "module:ol/webgl.CLAMP_TO_EDGE",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:239"
+    },
+    {
+      "name": "module:ol/webgl.COMPILE_STATUS",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:246"
+    },
+    {
+      "name": "module:ol/webgl.FRAMEBUFFER",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:253"
+    },
+    {
+      "name": "module:ol/webgl.getContext",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:277"
+    },
+    {
+      "name": "module:ol/webgl.DEBUG",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:298"
+    },
+    {
+      "name": "module:ol/webgl.HAS",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:338"
+    },
+    {
+      "name": "module:ol/webgl.MAX_TEXTURE_SIZE",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:338"
+    },
+    {
+      "name": "module:ol/webgl.EXTENSIONS",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/webgl.js:338"
+    },
+    {
+      "name": "module:ol/xml.DOCUMENT",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:32"
+    },
+    {
+      "name": "module:ol/xml.XML_SCHEMA_INSTANCE_URI",
+      "kind": "member",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:38"
+    },
+    {
+      "name": "module:ol/xml.createElementNS",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:46"
+    },
+    {
+      "name": "module:ol/xml.getAllTextContent",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:59"
+    },
+    {
+      "name": "module:ol/xml.getAllTextContent_",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:73"
+    },
+    {
+      "name": "module:ol/xml.isDocument",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:95"
+    },
+    {
+      "name": "module:ol/xml.isNode",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:104"
+    },
+    {
+      "name": "module:ol/xml.getAttributeNS",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:115"
+    },
+    {
+      "name": "module:ol/xml.parse",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:126"
+    },
+    {
+      "name": "module:ol/xml.makeArrayExtender",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:139"
+    },
+    {
+      "name": "module:ol/xml.makeArrayPusher",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:164"
+    },
+    {
+      "name": "module:ol/xml.makeReplacer",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:188"
+    },
+    {
+      "name": "module:ol/xml.makeObjectPropertyPusher",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:212"
+    },
+    {
+      "name": "module:ol/xml.makeObjectPropertySetter",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:243"
+    },
+    {
+      "name": "module:ol/xml.makeChildAppender",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:269"
+    },
+    {
+      "name": "module:ol/xml.makeArraySerializer",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:291"
+    },
+    {
+      "name": "module:ol/xml.makeSimpleNodeFactory",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:319"
+    },
+    {
+      "name": "module:ol/xml.OBJECT_PROPERTY_NODE_FACTORY",
+      "kind": "constant",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:350"
+    },
+    {
+      "name": "module:ol/xml.makeSequence",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:365"
+    },
+    {
+      "name": "module:ol/xml.makeStructureNS",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:385"
+    },
+    {
+      "name": "module:ol/xml.parseNode",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:406"
+    },
+    {
+      "name": "module:ol/xml.pushParseAndPop",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:431"
+    },
+    {
+      "name": "module:ol/xml.serialize",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:460"
+    },
+    {
+      "name": "module:ol/xml.pushSerializeAndPop",
+      "kind": "function",
+      "path": "/home/gberaudo/dev/geoblocks/legacylib/ol5/node_modules/ol/xml.js:503"
+    }
+  ]
+}

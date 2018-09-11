@@ -12,3 +12,7 @@ The tool requires that the js files have a `@module` annotation.
 ```bash
 npm i; cd ol5; npm i; npm run build
 ```
+
+# Credits
+
+This tool is a generalized and simplified version of an Openlayers tool.

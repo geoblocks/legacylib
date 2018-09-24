@@ -1,10 +1,10 @@
 "use strict";
 
-const fse = require('fs-extra');
+const fs = require('fs');
 const path = require('path');
 
 function generateInfo() {
-  return JSON.parse(fse.readFileSync('build/info.json'));
+  return JSON.parse(fs.readFileSync('build/info.json'));
 }
 
 /**
@@ -130,7 +130,7 @@ function main() {
 if (require.main === module) {
   const code = main();
   const filepath = path.join('build', 'index.js');
-  fse.outputFileSync(filepath, code);
+  fs.writeFileSync(filepath, code);
 }
 
 

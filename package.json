@@ -8,7 +8,6 @@
   "author": "Guillaume Beraudo",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "fs-extra": "^7.0.0",
     "jsdoc": "^3.5.5",
     "rollup": "0.65.2",
     "rollup-plugin-buble": "0.19.2",

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "jsdoc": "../node_modules/.bin/jsdoc -c ../config/jsdoc/info/conf.json node_modules/ol > build/info.json",
+    "jsdoc": "../node_modules/.bin/jsdoc -c ../config/jsdoc/info/conf.json node_modules/ol/src/ol > build/info.json",
     "index": "node ../tasks/generate-index.js",
     "rollup": "../node_modules/.bin/rollup --config rollup.js",
     "build": "npm run jsdoc && npm run index && npm run rollup"
@@ -13,7 +13,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "fs-extra": "^7.0.0",
-    "ol": "5.2.0",
+    "ol": "https://api.github.com/repos/openlayers/openlayers/tarball/32dea69",
     "pbf": "^3.1.0",
     "pixelworks": "^1.1.0",
     "rbush": "^2.0.2"

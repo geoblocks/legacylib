@@ -6,8 +6,9 @@
   "scripts": {
     "jsdoc": "../node_modules/.bin/jsdoc -c ../config/jsdoc/info/conf.json node_modules/ol/src/ol > build/info.json",
     "index": "node ../tasks/generate-index.js",
-    "rollup": "../node_modules/.bin/rollup --config rollup.js",
-    "build": "npm run jsdoc && npm run index && npm run rollup"
+    "rollup": "../node_modules/.bin/rollup --config rollup.js --environment BUILD:production",
+    "rollup-debug": "../node_modules/.bin/rollup --config rollup.js --environment BUILD:development",
+    "build": "npm run jsdoc && npm run index && npm run rollup-debug && npm run rollup"
   },
   "author": "",
   "license": "BSD-2-Clause",

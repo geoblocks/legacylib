@@ -7,10 +7,10 @@ function generateInfo() {
 
 /**
  * Read the symbols from info file.
- * @return {Promise<Array>} Resolves with an array of symbol objects.
+ * @return {Array} Resolves with an array of symbol objects.
  */
-async function getSymbols() {
-  const info = await generateInfo();
+function getSymbols() {
+  const info = generateInfo();
   return info.symbols.filter(symbol => symbol.kind !== 'member');
 }
 
@@ -32,7 +32,7 @@ function extractRoot(importString) {
 /**
  * Generate a list of imports.
  * @param {Array<Object>} symbols List of symbols.
- * @return {Promise<Array>} A list of imports sorted by export name.
+ * @return {Array} A list of imports sorted by export name.
  */
 function getImports(symbols) {
   const imports = {};
@@ -112,11 +112,11 @@ function generateExports(symbols, namespaces, imports) {
 
 /**
  * Generate the exports code.
- * @return {Promise<string>} Resolves with the exports code.
+ * @return {string} Resolves with the exports code.
  */
-async function main() {
-  const symbols = await getSymbols();
-  const imports = await getImports(symbols);
+function main() {
+  const symbols = getSymbols();
+  const imports = getImports(symbols);
   return generateExports(symbols, {}, imports);
 }
 
@@ -126,12 +126,9 @@ async function main() {
  * function, and write the output file.
  */
 if (require.main === module) {
-  main().then(async code => {
-    const filepath = path.join('build', 'index.js');
-    await fse.outputFile(filepath, code);
-  }).catch(err => {
-    process.stderr.write(`${err.message}\n`, () => process.exit(1));
-  });
+  const code = main();
+  const filepath = path.join('build', 'index.js');
+  fse.outputFileSync(filepath, code);
 }
 
 

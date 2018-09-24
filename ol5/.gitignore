@@ -1,5 +1,7 @@
 /node_modules
 /build/index.js
-/build/info.js
+/build/info.json
 /build/ol.js
 /build/ol.js.map
+/build/ol-debug.js
+/build/ol-debug.js.map

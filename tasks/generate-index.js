@@ -22,9 +22,9 @@ let root;
  */
 function extractRoot(importString) {
   const firstSlash = importString.indexOf('/');
-  console.asserts(firstSlash, 1);
+  console.assert(firstSlash, 1);
   const secondSlash = importString.indexOf('/', firstSlash + 1);
-  const currentRoot = importString.substring(firstSlash, secondSlash);
+  const currentRoot = importString.substring(firstSlash + 1, secondSlash);
   if (root && currentRoot !== root) {
     console.assert(false, `Mismatching roots: ${currentRoot} and ${root}`);
   }
@@ -43,11 +43,13 @@ function getImports(symbols) {
     const namedExport = symbol.name.split('.');
     if (defaultExport.length > 1) {
       const from = defaultExport[0].replace(/^module\:/, './');
+      extractRoot(from);
       const importName = from.replace(/[.\/]+/g, '$');
       const defaultImport = `import ${importName} from '${from}';`;
       imports[defaultImport] = true;
     } else if (namedExport.length > 1) {
       const from = namedExport[0].replace(/^module\:/, './');
+      extractRoot(from);
       const importName = from.replace(/[.\/]+/g, '_');
       const namedImport = `import * as ${importName} from '${from}';`;
       imports[namedImport] = true;
@@ -106,6 +108,7 @@ function generateExports(symbols, namespaces, imports) {
       nsdefs.push(`${ns[i]} = {};`);
     }
   }
+  console.assert(root, 'The root should be defined at this point');
   blocks = imports.concat(`\nvar ${root} = window['${root}'] = {};\n`, [...nsdefs, ...blocks].sort());
   blocks.push('');
   return blocks.join('\n');
